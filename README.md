@@ -24,7 +24,7 @@ Email: elaine_hill@urmc.rochester.edu<br>
 
 I am Professor in the Departments of Public Health Sciences, of Economics, and of Obstetrics & Gynecology at the University of Rochester. I am a health and environmental economist. I am also a Research Associate at the National Bureau of Economic Research (NBER) and hold a courtesy appointment at Oregon State University. My research is at the intersection of health, health policy, and the environment and human capital formation. To learn more, please see my CV and research page.
 
-## Recent Stuff
+## What's new?
 
 **Who Benefits from Hazardous Waste Cleanups? Evidence from the Housing Market**<br>
 with Alecia Cassidy and Lala Ma<br>
@@ -33,7 +33,7 @@ with Alecia Cassidy and Lala Ma<br>
 
 **Pandemic Policies and Health Outcomes: Evidence from Medicare and Medicaid Claims Data**<br>
 with Konstantin Kunze, Meredith Adams, Daniel Guth, Grace Sventek
-
+*New working Paper*<br>
 
 <div class="site-footer">
   <p>© 2026 Elaine L. Hill | elaine_hill@urmc.rochester.edu</p>
