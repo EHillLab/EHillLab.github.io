@@ -7,6 +7,10 @@ with Alecia Cassidy and Lala Ma<br>
 *Accepted at Journal of Political Economy Microeconomics*<br>
 [[NBER WP 30661](https://www.nber.org/papers/w30661)] [[Coverage: NBER Bulletin on Environment and Energy](https://www.nber.org/reporter/2023number4/program-report-environment-and-energy-economics)]
 
+**State Medicaid Spending for Long-Term Services and Supports (LTSS) and the Self-Reported Health of Spousal Caregivers of Community-Dwelling Older Adults with Dementia**<br>
+with Zijing Cheng, Daniel D Maeng, Hochang B Lee, Jennifer M Reckrey, Giselle Routhier, Meiling Ying, Yue Li
+*Aging and Health Research*, Jan 2026
+
 **Negotiations of Oil and Gas Auxiliary Lease Clauses: Evidence from Pennsylvania's Marcellus Shale**<br>
 with Max Harleman and Pramod Manohar<br>
 *Resource and Energy Economics*, forthcoming
@@ -30,6 +34,10 @@ Zijing Cheng, Hochang B. Lee, Daniel D. Maeng, Elaine L. Hill, Yue Li<br>
 **Impact of Drug Shortages on Cancer Care Delivery Within the National Cancer Institute Community Oncology Research Program**<br>
 Lauren V Ghazal, Supriya Mohile, Kah Poh Loh, Karen Mustian, Grace Sventek, Umang Gada, Chin-Shang Li, Eva Culakova, Melyssa Foust, Judith O Hopkins, Heather Kehn, Charles Kamen, Erin R Fox, Elaine L Hill<br>
 *JCO Oncology Practice*, 2025
+
+**Diagnosis and coding of opioid misuse: a systematic scoping review and implementation framework**<br>
+with Robert W Hurley, Khadijah T Bland, Mira D Chaskes, Meredith CB Adams
+*Pain Medicine*, Feb 2025
 
 **Limited Impact of Roadway Construction and Traffic Congestion on Nearby Housing Prices**<br>
 with Lena Harris, Max Harleman, Mary Willis, and Perry Hystad<br>
