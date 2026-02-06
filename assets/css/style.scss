@@ -50,7 +50,7 @@ header a {
 }
 
 .simple-nav a {
-  color: #159957;
+  color: #005595;
   text-decoration: none;
   margin: 0 15px;
   font-weight: 500;
@@ -58,7 +58,7 @@ header a {
 }
 
 .simple-nav a:hover {
-  color: #0d6b3d;
+  color: #003d6b;
   text-decoration: underline;
 }
 
@@ -77,14 +77,14 @@ header a {
    =================================== */
 section a,
 a {
-  color: #159957 !important;
+  color: #005595 !important;
   text-decoration: none;
   transition: color 0.2s;
 }
 
 section a:hover,
 a:hover {
-  color: #0d6b3d !important;
+  color: #003d6b !important;
   text-decoration: underline;
 }
 
