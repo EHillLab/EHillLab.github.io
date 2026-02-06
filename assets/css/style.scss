@@ -110,14 +110,39 @@ a:hover {
 
 .paper-title {
   font-weight: 600;
-  color: #222;
+  color: #005595;
   line-height: 1.4;
+}
+
+.paper-title a {
+  color: #005595 !important;
+}
+
+.paper-title a:hover {
+  color: #003d6b !important;
 }
 
 .paper-authors {
   color: #666;
   font-size: 15px;
   margin-top: 3px;
+}
+
+/* Coverage and other links - different color */
+.paper-links {
+  font-size: 14px;
+  margin-top: 3px;
+  color: #666;
+}
+
+.paper-links a {
+  color: #228B22 !important;
+  text-decoration: none;
+}
+
+.paper-links a:hover {
+  color: #156b15 !important;
+  text-decoration: underline;
 }
 
 /* ===================================
