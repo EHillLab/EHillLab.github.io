@@ -1,3 +1,6 @@
+<div class="simple-nav">
+  <a href="/">Home</a> | <a href="/research.html">Research</a> | <a href="/teaching.html">Teaching</a> | <a href="Elaine_CV.pdf" target="_blank">CV</a>
+</div>
 
 <p align="center" style="line-height: 1.2;">
 <strong style="font-size: 1.5em;">Elaine L. Hill</strong><br>
