@@ -2,6 +2,9 @@
   <a href="/">Home</a> | <a href="/research.html">Research</a> | <a href="/teaching.html">Teaching</a> | <a href="Elaine_L_Hill_CV.pdf" target="_blank">CV</a>
 </div>
 
+
+<img src="elaine_image1.jpg" alt="Elaine" class="profile-img">
+
 <p align="center" style="line-height: 1.2;">
 <strong style="font-size: 1.2em;">Dean's Professor</strong><br>
 Department of Public Health Sciences<br>
