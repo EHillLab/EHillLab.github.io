@@ -26,12 +26,12 @@ I am Professor in the Departments of Public Health Sciences, of Economics, and o
 
 ## What's new?
 
-:new: **Who Benefits from Hazardous Waste Cleanups? Evidence from the Housing Market**<br>
+🆕 **Who Benefits from Hazardous Waste Cleanups? Evidence from the Housing Market**<br>
 with Alecia Cassidy and Lala Ma<br>
 *Accepted at Journal of Political Economy Microeconomics*<br>
 [[NBER WP 30661](https://www.nber.org/papers/w30661)] [[Coverage: NBER Bulletin on Environment and Energy](https://www.nber.org/reporter/2023number4/program-report-environment-and-energy-economics)]
 
-:new: **Pandemic Policies and Health Outcomes: Evidence from Medicare and Medicaid Claims Data**<br>
+🆕 **Pandemic Policies and Health Outcomes: Evidence from Medicare and Medicaid Claims Data**<br>
 with Konstantin Kunze, Meredith Adams, Daniel Guth, Grace Sventek<br>
 *Working Paper*<br>
 
