@@ -1,10 +1,11 @@
 
-Elaine L. Hill
-Dean's Professor
-Department of Public Health Sciences
-Department of Economics (joint)
+<p align="center" style="line-height: 1.2;">
+<strong style="font-size: 1.5em;">Elaine L. Hill</strong><br>
+Dean's Professor<br>
+Department of Public Health Sciences<br>
+Department of Economics (joint)<br>
 Department of Obstetrics & Gynecology (joint)
-
+</p>
 
 Contact Information
 University of Rochester School of Medicine and Dentistry
