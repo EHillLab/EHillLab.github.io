@@ -3,13 +3,15 @@
 </div>
 
 
-PHD TEACHING:<br>
-Advanced Quantitative Methods (Fall 2015- )<br>
-Graduate level (PhD 2nd year)<br>
-Advanced Health Economics II (Spring 2015- )<br>
+**PHD TEACHING:<br>**
+**Advanced Quantitative Methods** (Fall 2015- )<br>
 Graduate level (PhD 2nd year)<br>
 
-GUEST LECTURES:<br>
-Environmental and Occupational Epidemiology (2015, 2016, 2017, 2018)<br>
-Epidemiology (2015, 2016, 2017)<br>
+**Advanced Health Economics II** (Spring 2015- )<br>
+Graduate level (PhD 2nd year)<br>
+
+**GUEST LECTURES:<br>**
+**Environmental and Occupational Epidemiology** (2015--)<br>
+
+**Epidemiology** (2015--)<br>
 
