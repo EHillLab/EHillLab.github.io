@@ -292,3 +292,7 @@ with Daniel M. Finkelstein and Robert C. Whitaker<br>
 with David Slusky<br>
 *Advances in Health Economics and Health Services Research*, In Human Capital and Health Behavior, pp. 3-29. Emerald Publishing Limited, 2017 
 
+
+<div class="site-footer">
+  <p>© 2026 Elaine L. Hill | elaine_hill@urmc.rochester.edu</p>
+</div>
