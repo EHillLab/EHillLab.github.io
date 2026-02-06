@@ -1,0 +1,221 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* ===================================
+   HEADER & TITLE STYLING
+   =================================== */
+header {
+  float: none !important;
+  position: static !important;
+  width: 100% !important;
+  text-align: center !important;
+  padding: 40px 0 15px 0 !important;
+  border-bottom: none !important;
+  left: auto !important;
+  right: auto !important;
+}
+
+header h1 {
+  text-align: center !important;
+  font-size: 42px !important;
+  margin-bottom: 8px !important;
+}
+
+header p {
+  text-align: center !important;
+  font-size: 18px !important;
+  color: #666 !important;
+  margin-bottom: 0 !important;
+}
+
+header a {
+  text-align: center !important;
+}
+
+// Center the title
+.container-lg h1 {
+  text-align: center !important;
+}
+/* ===================================
+   NAVIGATION
+   =================================== */
+.simple-nav {
+  text-align: center;
+  margin: 25px 0 40px 0;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #e5e5e5;
+  font-size: 16px;
+}
+
+.simple-nav a {
+  color: #159957;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+
+.simple-nav a:hover {
+  color: #0d6b3d;
+  text-decoration: underline;
+}
+
+/* ===================================
+   PROFILE IMAGE
+   =================================== */
+.profile-img {
+  float: left;
+  width: 180px;
+  margin: 0px 30px 15px 0px;
+  border-radius: 6px;
+}
+
+/* ===================================
+   LINKS
+   =================================== */
+section a,
+a {
+  color: #159957 !important;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+section a:hover,
+a:hover {
+  color: #0d6b3d !important;
+  text-decoration: underline;
+}
+
+/* Override for paper status (journals) - keep them gray */
+.paper-status {
+  color: #666 !important;
+  font-style: italic;
+  font-size: 15px;
+  margin-top: 2px;
+}
+
+.paper-status a {
+  color: #666 !important;
+  font-style: italic;
+}
+
+/* ===================================
+   PAPER STYLING
+   =================================== */
+.paper {
+  margin-bottom: 25px;
+}
+
+.paper-title {
+  font-weight: 600;
+  color: #222;
+  line-height: 1.4;
+}
+
+.paper-authors {
+  color: #666;
+  font-size: 15px;
+  margin-top: 3px;
+}
+
+/* ===================================
+   CONTENT SPACING
+   =================================== */
+section h2:first-of-type {
+  margin-top: 30px;
+}
+
+section h2 {
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+section p {
+  margin-bottom: 18px;
+}
+
+/* ===================================
+   FOOTER
+   =================================== */
+.site-footer {
+  margin-top: 60px;
+  padding-top: 30px;
+  border-top: 1px solid #e5e5e5;
+  text-align: center;
+  color: #999;
+  font-size: 14px;
+}
+
+.site-footer p {
+  margin: 10px 0;
+}
+
+/* ===================================
+   DESKTOP LAYOUT (720px and above)
+   =================================== */
+@media print, screen and (min-width: 720px) {
+  .wrapper {
+    width: 100% !important;
+    display: block !important;
+  }
+  
+  header {
+    float: none !important;
+    position: static !important;
+    width: 100% !important;
+    text-align: center !important;
+    padding: 40px 0 15px 0 !important;
+    border-bottom: none !important;
+  }
+  
+  header h1 {
+    font-size: 42px !important;
+    margin-bottom: 8px !important;
+    text-align: center !important;
+  }
+  
+  header p {
+    font-size: 18px !important;
+    color: #666 !important;
+    margin-bottom: 0 !important;
+    text-align: center !important;
+  }
+  
+  section {
+    float: none !important;
+    width: 90% !important;
+    max-width: 900px !important;
+    margin: 0 auto !important;
+    padding-top: 0 !important;
+  }
+}
+
+/* ===================================
+   MOBILE LAYOUT (below 768px)
+   =================================== */
+@media (max-width: 768px) {
+  /* Center header on mobile */
+  header {
+    text-align: center !important;
+  }
+  
+  header h1 {
+    text-align: center !important;
+    font-size: 32px !important;
+  }
+  
+  header p {
+    text-align: center !important;
+  }
+  
+  /* Image: remove float so text goes below */
+  .profile-img {
+    float: none !important;
+    display: block;
+    margin: 0 auto 15px auto !important;
+    width: 85%;
+    max-width: 180px;
+  }
+}
