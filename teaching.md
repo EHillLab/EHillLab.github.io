@@ -3,19 +3,13 @@
 </div>
 
 
+PHD TEACHING:<br>
+Advanced Quantitative Methods (Fall 2015- )<br>
+Graduate level (PhD 2nd year)<br>
+Advanced Health Economics II (Spring 2015- )<br>
+Graduate level (PhD 2nd year)<br>
 
-**Advanced Econometrics** (Ph.D., Second Year)  
-Spring 2025, University of Rochester
+GUEST LECTURES:<br>
+Environmental and Occupational Epidemiology (2015, 2016, 2017, 2018)<br>
+Epidemiology (2015, 2016, 2017)<br>
 
-**Economic Research and Communication** (Undergraduate level)  
-Spring 2025, University of Rochester
-
-**Advanced Quantitative Methods: Causal Inference** (Graduate level)  
-University of Rochester
-
-
-**Note:** Please check the course Blackboards for more information, or contact me with any questions.
-
-<div class="site-footer">
-  <p>© 2026 Sudhir K. Singh | ssingh45@ur.rochester.edu</p>
-</div>
