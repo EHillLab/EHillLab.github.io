@@ -3,7 +3,12 @@
 </div>
 
 
-<img src="elaine_image1.jpg" alt="Elaine" class="profile-img">
+<img src="elaine_image1.jpg" alt="Elaine" class="profile-img{
+  float: left;
+  width: 180px;
+  margin: 0px 30px 15px 0px;
+  border-radius: 6px;
+}">
 
 <p align="center" style="line-height: 1.2;">
 <strong style="font-size: 1.2em;">Dean's Professor</strong><br>
