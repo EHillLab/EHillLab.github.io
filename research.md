@@ -278,3 +278,9 @@ with Xi He, Miguel Gomez, Charles Nicholson and Oliver Gao<br>
 **School Food Environments and Policies in US Public Schools**<br>
 with Daniel M. Finkelstein and Robert C. Whitaker<br>
 *Pediatrics*, vol. 122, July 2008
+
+### Book Chapters
+**Birth Spacing and Educational Outcomes**<br> 
+with David Slusky<br>
+*Advances in Health Economics and Health Services Research*, In Human Capital and Health Behavior, pp. 3-29. Emerald Publishing Limited, 2017 
+
