@@ -15,3 +15,7 @@ Graduate level (PhD 2nd year)<br>
 
 **Epidemiology** (2015--)<br>
 
+
+<div class="site-footer">
+  <p>© 2026 Elaine L. Hill | elaine_hill@urmc.rochester.edu</p>
+</div>
