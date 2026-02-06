@@ -3,8 +3,7 @@
 </div>
 
 <p align="center" style="line-height: 1.2;">
-<strong style="font-size: 1.5em;">Elaine L. Hill</strong><br>
-Dean's Professor<br>
+<strong style="font-size: 1.0em;">Dean's Professor</strong><br>
 Department of Public Health Sciences<br>
 Department of Economics (joint)<br>
 Department of Obstetrics & Gynecology (joint)
@@ -12,7 +11,7 @@ Department of Obstetrics & Gynecology (joint)
 
 
 <p align="center" style="line-height: 1.2;">
-<strong style="font-size: 1.5em;">Contact Information</strong><br>
+<strong style="font-size: 0.5em;">Contact Information</strong><br>
 University of Rochester School of Medicine and Dentistry<br>
 265 Crittenden Boulevard,<br>
 Box 420644, Rochester, NY<br>
