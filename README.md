@@ -31,7 +31,7 @@ I am Professor in the Departments of Public Health Sciences, of Economics, and o
 #### Affliated Faculty Member
 **[Institute for Data Science](http://www.rochester.edu/data-science/)** | **[Environmental Health Sciences Center](https://www.urmc.rochester.edu/environmental-health-sciences)**
 
-## What's new?
+## New (ish) Papers
 
 🆕 **Who Benefits from Hazardous Waste Cleanups? Evidence from the Housing Market**<br>
 with Alecia Cassidy and Lala Ma<br>
