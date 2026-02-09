@@ -40,7 +40,7 @@ with Alecia Cassidy and Lala Ma<br>
 
 🆕 **Pandemic Policies and Health Outcomes: Evidence from Medicare and Medicaid Claims Data**<br>
 with Konstantin Kunze, Meredith Adams, Daniel Guth, Grace Sventek<br>
-*Working Paper*<br>
+[[Working Paper](https://www.konstantin-kunze.com/files/kunze_covid_policy.pdf)]<br>
 
 
 <div class="site-footer">
