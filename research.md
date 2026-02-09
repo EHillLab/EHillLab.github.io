@@ -35,7 +35,7 @@ Zijing Cheng, Hochang B. Lee, Daniel D. Maeng, Elaine L. Hill, Yue Li<br>
 Lauren V Ghazal, Supriya Mohile, Kah Poh Loh, Karen Mustian, Grace Sventek, Umang Gada, Chin-Shang Li, Eva Culakova, Melyssa Foust, Judith O Hopkins, Heather Kehn, Charles Kamen, Erin R Fox, Elaine L Hill<br>
 *JCO Oncology Practice*, 2025
 
-**Diagnosis and coding of opioid misuse: a systematic scoping review and implementation framework**<br>
+**Diagnosis and Coding of Opioid Misuse: A Systematic Scoping Review and Implementation Framework**<br>
 with Robert W Hurley, Khadijah T Bland, Mira D Chaskes, Meredith CB Adams
 *Pain Medicine*, Feb 2025
 
