@@ -122,7 +122,7 @@ with Xi He, Miguel Gomez, Charles Nicholson and Oliver Gao<br>
 *Environmental Science and Technology*, 2015; 49(20)
 
 
-## Maternal, Infant & Child Health
+## Maternal & Child Health
 
 **The Impact of Increased Medicaid Eligibility During Pregnancy on Medicaid Utilization and Gestational Age**<br>
 Nicolas P. Goldstein Novick, Peter J. Veazie, Elaine L. Hill, Eva K. Pressman, Peter G. Szilagyi, Timothy D. Nelin, Scott A. Lorch<br>
