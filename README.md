@@ -30,7 +30,8 @@ I am Professor in the Departments of Public Health Sciences, of Economics, and o
 **[Selected Coverage of my Research](news_media.md)**
 
 #### Affliated Faculty Member
-**[Institute for Data Science](http://www.rochester.edu/data-science/)** | **[Environmental Health Sciences Center](https://www.urmc.rochester.edu/environmental-health-sciences)**
+**[Institute for Data Science](http://www.rochester.edu/data-science/)** <br>
+**[Environmental Health Sciences Center](https://www.urmc.rochester.edu/environmental-health-sciences)**
 
 ## New (ish) Papers
 
