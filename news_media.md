@@ -1,4 +1,4 @@
-## Selected Coverage of my Research
+## Selected Coverage
 
 **Featured Profile**
 
