@@ -8,7 +8,7 @@ with Alecia Cassidy and Lala Ma<br>
 [[NBER WP 30661](https://www.nber.org/papers/w30661)] [[Coverage: NBER Bulletin on Environment and Energy](https://www.nber.org/reporter/2023number4/program-report-environment-and-energy-economics)]
 
 **State Medicaid Spending for Long-Term Services and Supports (LTSS) and the Self-Reported Health of Spousal Caregivers of Community-Dwelling Older Adults with Dementia**<br>
-with Zijing Cheng, Daniel D Maeng, Hochang B Lee, Jennifer M Reckrey, Giselle Routhier, Meiling Ying, Yue Li
+with Zijing Cheng, Daniel D Maeng, Hochang B Lee, Jennifer M Reckrey, Giselle Routhier, Meiling Ying, Yue Li<br>
 *Aging and Health Research*, Jan 2026
 
 **Negotiations of Oil and Gas Auxiliary Lease Clauses: Evidence from Pennsylvania's Marcellus Shale**<br>
@@ -36,7 +36,7 @@ Lauren V Ghazal, Supriya Mohile, Kah Poh Loh, Karen Mustian, Grace Sventek, Uman
 *JCO Oncology Practice*, 2025
 
 **Diagnosis and Coding of Opioid Misuse: A Systematic Scoping Review and Implementation Framework**<br>
-with Robert W Hurley, Khadijah T Bland, Mira D Chaskes, Meredith CB Adams
+with Robert W Hurley, Khadijah T Bland, Mira D Chaskes, Meredith CB Adams<br>
 *Pain Medicine*, Feb 2025
 
 **Limited Impact of Roadway Construction and Traffic Congestion on Nearby Housing Prices**<br>
