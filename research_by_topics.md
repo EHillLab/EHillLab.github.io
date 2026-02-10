@@ -121,7 +121,6 @@ with Lala Ma<br>
 with Xi He, Miguel Gomez, Charles Nicholson and Oliver Gao<br>
 *Environmental Science and Technology*, 2015; 49(20)
 
----
 
 ## Maternal, Infant & Child Health
 
@@ -171,7 +170,6 @@ with Lianlian Lei and Feng Liu<br>
 with David Slusky<br>
 *Advances in Health Economics and Health Services Research*, In Human Capital and Health Behavior, pp. 3-29. Emerald Publishing Limited, 2017 
 
----
 
 ## Opioid Crisis & Substance Use Disorder
 
@@ -208,7 +206,6 @@ with Alina Denham, Teraisa Mulaney, and Peter Veazie<br>
 with Meredith Adams, Andy Boslett, and Alina Denham<br>
 *Journal of the American Medical Informatics Association*, 26(8-9), 2019
 
----
 
 ## COVID-19 Research
 
@@ -253,7 +250,6 @@ with Aaron Wagner, Sean E. Ryan, Ziteng Sun, Grace Deng, Sourbh Bhadane, Victor 
 *Stat*, 2020<br>
 [Coverage: 13WAHM; University of Rochester; FingerLakes.com; Cornell Chronicle]
 
----
 
 ## Healthcare
 
@@ -301,7 +297,6 @@ with Roan J. Glocker, Mathew J. TerBush, Joseph J. Guido, Adam Doyle, Jennifer L
 with Carolyn L. Turvey, David M Klein, Matthew Witry, J. Stacey Klutts, Bruce Alexander, and Kim M. Nazi<br>
 *Applied Clinical Informatics*, Vol 7: Issue 3 2016
 
----
 
 ## Book Chapters
 
