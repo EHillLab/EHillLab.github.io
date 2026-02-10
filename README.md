@@ -27,6 +27,7 @@ I am Professor in the Departments of Public Health Sciences, of Economics, and o
 **[NBER Research Associate](https://www.nber.org/people/elaine_hill?page=1&perPage=50)<br>**
 **[Health and Environmental Economics Lab (HEEL)](https://www.urmc.rochester.edu/labs/hill)<br>**
 **[Google Scholar Citations](https://scholar.google.com/citations?user=0wa_KMgAAAAJ&hl=en)<br>**
+**[Selected Coverage of my Research](news_media.md)**
 
 #### Affliated Faculty Member
 **[Institute for Data Science](http://www.rochester.edu/data-science/)** | **[Environmental Health Sciences Center](https://www.urmc.rochester.edu/environmental-health-sciences)**
