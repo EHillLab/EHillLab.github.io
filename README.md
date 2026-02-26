@@ -5,14 +5,14 @@
 
 <img src="elaine_image1.jpg" alt="Elaine" class="profile-img">
 
-<p class="bio-block" align="left" style="line-height: 1.2;">
+<p class="bio-block" align="center" style="line-height: 1.2;">
 <strong style="font-size: 1.2em;">Dean's Professor</strong><br>
 Department of Public Health Sciences<br>
 Department of Economics (joint)<br>
 Department of Obstetrics & Gynecology (joint)
 </p>
 
-<p class="bio-block" align="left" style="line-height: 1.2;">
+<p class="bio-block" align="center" style="line-height: 1.2;">
 <strong style="font-size: 1.0em;">Contact Information</strong><br>
 University of Rochester School of Medicine and Dentistry<br>
 265 Crittenden Boulevard,<br>
