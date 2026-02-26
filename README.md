@@ -20,7 +20,7 @@ Email: elaine_hill@urmc.rochester.edu<br>
 
 <div style="clear: both;"></div>
 
-<div style="height: 15px;"></div>
+<div style="height: 18px;"></div>
   
 **[NBER Research Associate](https://www.nber.org/people/elaine_hill?page=1&perPage=50)<br>**
 **[Health and Environmental Economics Lab](https://www.urmc.rochester.edu/labs/hill)<br>**
