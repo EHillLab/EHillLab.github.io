@@ -6,15 +6,20 @@
 <img src="elaine_image1.jpg" alt="Elaine" class="profile-img">
 
 <p align="center" style="line-height: 1.2;">
-<strong style="font-size: 1.2em;">Dean's Professor</strong><br>
-Department of Public Health Sciences<br>
-Department of Economics (joint)<br>
-<div class="centered-info">
 
 **Dean's Professor**  
 Department of Public Health Sciences  
 Department of Economics (joint)  
 Department of Obstetrics & Gynecology (joint)
+</p>
+<div class="centered-info">
+
+<p align="center" style="line-height: 1.2;">
+<strong style="font-size: 1.0em;">Contact Information</strong><br>
+University of Rochester School of Medicine and Dentistry<br>
+265 Crittenden Boulevard,<br>
+Box 420644, Rochester, NY<br>
+Email: elaine_hill@urmc.rochester.edu<br>
 </p>
 
 
