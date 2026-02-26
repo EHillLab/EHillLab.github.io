@@ -31,7 +31,7 @@ I am Professor in the Departments of Public Health Sciences, of Economics, and o
 -->
 <div style="clear: both;"></div>
 
-<p style="line-height: 1.2; margin-top: 50px;">
+
   
 **[NBER Research Associate](https://www.nber.org/people/elaine_hill?page=1&perPage=50)<br>**
 **[Health and Environmental Economics Lab](https://www.urmc.rochester.edu/labs/hill)<br>**
