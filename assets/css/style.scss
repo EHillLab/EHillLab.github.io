@@ -164,20 +164,15 @@ section p {
 
 
 
+
 /*======================================
 Bio Block centering
 ======================================*/
 @media print, screen and (min-width: 720px) {
   .bio-block {
+    margin-left: 210px !important;
     text-align: center !important;
   }
-}
-
-.profile-section {
-  display: flex !important;
-  align-items: center !important;
-  gap: 10px !important;
-  margin-bottom: 20px !important;
 }
 /* ===================================
    FOOTER
