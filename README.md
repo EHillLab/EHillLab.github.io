@@ -6,11 +6,11 @@
 <img src="elaine_image1.jpg" alt="Elaine" class="profile-img">
 
 Welcome!
-<br>  
+
 I am <strong style="font-size: 1.0em;">Dean's Professor</strong> in the Departments of Public Health Sciences, of Economics, and of Obstetrics & Gynecology at the University of Rochester. I am a health and environmental economist. I am also a Research Associate at the National Bureau of Economic Research (NBER) and hold a courtesy appointment at Oregon State University. My research is at the intersection of health, health policy, and the environment and human capital formation. To learn more, please see my [CV](Elaine_L_Hill_CV.pdf) and [research page](research.md).
 
 
-<p class="bio-block" align="left" style="line-height: 1.2; margin-top: 50px;">
+<p class="bio-block" align="left" style="line-height: 1.2; margin-top: 30px;">
 <strong style="font-size: 1.0em;">Contact Information</strong><br>
 University of Rochester School of Medicine and Dentistry<br>
 265 Crittenden Boulevard,<br>
