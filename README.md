@@ -5,24 +5,14 @@
 
 <img src="elaine_image1.jpg" alt="Elaine" class="profile-img">
 
-<p class="bio-block" align="center" style="line-height: 1.2;">
-<strong style="font-size: 1.2em;">Dean's Professor</strong><br>
-Department of Public Health Sciences<br>
-Department of Economics (joint)<br>
-Department of Obstetrics & Gynecology (joint)
-</p>
 
-<p class="bio-block" align="center" style="line-height: 1.2;">
-<strong style="font-size: 1.0em;">Contact Information</strong><br>
-University of Rochester School of Medicine and Dentistry<br>
-265 Crittenden Boulevard,<br>
-Box 420644, Rochester, NY<br>
-Email: elaine_hill@urmc.rochester.edu<br>
-</p>
+I am Professor in the Departments of Public Health Sciences, of Economics, and of Obstetrics & Gynecology at the University of Rochester. I am a health and environmental economist. I am also a Research Associate at the National Bureau of Economic Research (NBER) and hold a courtesy appointment at Oregon State University. My research is at the intersection of health, health policy, and the environment and human capital formation. To learn more, please see my [CV](Elaine_L_Hill_CV.pdf) and [research page](research.md).
+
+
+
 
 <div style="clear: both;"></div>
 
-I am Professor in the Departments of Public Health Sciences, of Economics, and of Obstetrics & Gynecology at the University of Rochester. I am a health and environmental economist. I am also a Research Associate at the National Bureau of Economic Research (NBER) and hold a courtesy appointment at Oregon State University. My research is at the intersection of health, health policy, and the environment and human capital formation. To learn more, please see my [CV](Elaine_L_Hill_CV.pdf) and [research page](research.md).
 
 **[NBER Research Associate](https://www.nber.org/people/elaine_hill?page=1&perPage=50)<br>**
 **[Health and Environmental Economics Lab (HEEL)](https://www.urmc.rochester.edu/labs/hill)<br>**
@@ -44,6 +34,29 @@ with Alecia Cassidy and Lala Ma<br>
 with Konstantin Kunze, Meredith Adams, Daniel Guth, Grace Sventek<br>
 [[Working Paper](https://www.konstantin-kunze.com/files/kunze_covid_policy.pdf)]<br>
 
+
+<!-- hide this-<p class="bio-block" align="center" style="line-height: 1.2;">
+<strong style="font-size: 1.2em;">Dean's Professor</strong><br>
+Department of Public Health Sciences<br>
+Department of Economics (joint)<br>
+Department of Obstetrics & Gynecology (joint)
+</p> 
+<p class="bio-block" align="center" style="line-height: 1.2;">
+<strong style="font-size: 1.0em;">Contact Information</strong><br>
+University of Rochester School of Medicine and Dentistry<br>
+265 Crittenden Boulevard,<br>
+Box 420644, Rochester, NY<br>
+Email: elaine_hill@urmc.rochester.edu<br>
+</p>
+-->
+
+## Contact Information
+<p class="bio-block" align="left" style="line-height: 1.2;">
+University of Rochester School of Medicine and Dentistry<br>
+265 Crittenden Boulevard,<br>
+Box 420644, Rochester, NY<br>
+Email: elaine_hill@urmc.rochester.edu<br>
+</p>
 
 <div class="site-footer">
   <p>© 2026 Elaine L. Hill | elaine_hill@urmc.rochester.edu</p>
