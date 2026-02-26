@@ -19,7 +19,6 @@ Email: elaine_hill@urmc.rochester.edu<br>
 </p>
 
 <div style="clear: both;"></div>
-
 <div style="height: 18px;"></div>
   
 **[NBER Research Associate](https://www.nber.org/people/elaine_hill?page=1&perPage=50)<br>**
@@ -30,8 +29,6 @@ Email: elaine_hill@urmc.rochester.edu<br>
 <div style="clear: both;"></div>
 
 #### Affliated Faculty Member
-<div style="height: -8px;"></div>
-
 **[Institute for Data Science](http://www.rochester.edu/data-science/)** <br>
 **[Environmental Health Sciences Center](https://www.urmc.rochester.edu/environmental-health-sciences)**
 
