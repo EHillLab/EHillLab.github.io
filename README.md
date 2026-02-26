@@ -5,7 +5,7 @@
 
 <img src="elaine_image1.jpg" alt="Elaine" class="profile-img">
 
-<p class="bio-block" align="left" style="line-height: 1.2; margin-top: 40px;">
+<p class="bio-block" align="left" style="line-height: 1.2; margin-top: 70px;">
 <strong style="font-size: 1.0em;">Dean's Professor</strong><br>
 Department of Public Health Sciences<br>
 Department of Economics (joint)<br>
