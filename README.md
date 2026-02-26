@@ -6,18 +6,10 @@
 <img src="elaine_image1.jpg" alt="Elaine" class="profile-img">
 
 Welcome!
-<p class="bio-block" align="left" style="line-height: 1.2; margin-top: 50px;">
-  
+<br>  
 I am <strong style="font-size: 1.0em;">Dean's Professor</strong> in the Departments of Public Health Sciences, of Economics, and of Obstetrics & Gynecology at the University of Rochester. I am a health and environmental economist. I am also a Research Associate at the National Bureau of Economic Research (NBER) and hold a courtesy appointment at Oregon State University. My research is at the intersection of health, health policy, and the environment and human capital formation. To learn more, please see my [CV](Elaine_L_Hill_CV.pdf) and [research page](research.md).
 
-<!--
-<p class="bio-block" align="left" style="line-height: 1.2; margin-top: 90px;">
-<strong style="font-size: 1.0em;">Dean's Professor</strong><br>
-Department of Public Health Sciences<br>
-Department of Economics (joint)<br>
-Department of Obstetrics & Gynecology (joint)
-</p>
--->
+
 <p class="bio-block" align="left" style="line-height: 1.2; margin-top: 50px;">
 <strong style="font-size: 1.0em;">Contact Information</strong><br>
 University of Rochester School of Medicine and Dentistry<br>
@@ -27,12 +19,6 @@ Email: elaine_hill@urmc.rochester.edu<br>
 </p>
 
 <div style="clear: both;"></div>
-
-<!--
-I am Professor in the Departments of Public Health Sciences, of Economics, and of Obstetrics & Gynecology at the University of Rochester. I am a health and environmental economist. I am also a Research Associate at the National Bureau of Economic Research (NBER) and hold a courtesy appointment at Oregon State University. My research is at the intersection of health, health policy, and the environment and human capital formation. To learn more, please see my [CV](Elaine_L_Hill_CV.pdf) and [research page](research.md).
--->
-
-
 
   
 **[NBER Research Associate](https://www.nber.org/people/elaine_hill?page=1&perPage=50)<br>**
