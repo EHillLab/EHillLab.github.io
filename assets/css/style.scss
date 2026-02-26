@@ -188,12 +188,14 @@ section p {
 @media print, screen and (min-width: 720px) {
   .wrapper {
     width: 100% !important;
+     text-align: center !important;
     display: block !important;
   }
   
   header {
     float: none !important;
     position: static !important;
+    text-align: center !important;
     width: 100% !important;
     text-align: center !important;
     padding: 40px 0 15px 0 !important;
@@ -202,12 +204,14 @@ section p {
   
   header h1 {
     font-size: 42px !important;
+    text-align: center !important;
     margin-bottom: 8px !important;
     text-align: center !important;
   }
   
   header p {
     font-size: 18px !important;
+    text-align: center !important;
     color: #666 !important;
     margin-bottom: 0 !important;
     text-align: center !important;
@@ -216,6 +220,7 @@ section p {
   section {
     float: none !important;
     width: 90% !important;
+    text-align: center !important;
     max-width: 900px !important;
     margin: 0 auto !important;
     padding-top: 0 !important;
