@@ -161,6 +161,20 @@ section p {
   margin-bottom: 18px;
 }
 
+
+
+
+/*======================================
+Bio Block centering
+======================================*/
+@media print, screen and (min-width: 720px) {
+  .bio-block {
+    clear: both !important;
+    text-align: center !important;
+    width: 100% !important;
+  }
+}
+
 /* ===================================
    FOOTER
    =================================== */
