@@ -157,6 +157,10 @@ with PS Marinescu, C Olson-Chen, JC Glantz, SJ Hollenbach<br>
 Stefanie J. Hollenbach, Loralei L. Thornburg, J. Christopher Glantz, Elaine Hill<br>
 *JAMA Netw Open*, Oct 2021
 
+**Associations between Residential Proximity to Oil and Gas Drilling and Term Birth Weight and Small-for-Gestational-Age Infants in Texas: A Difference-in-Differences Analysis**<br>
+Mary D. Willis, Elaine L. Hill, Andrew Boslett, Molly L. Kile, Susan E. Carozza, and Perry Hystad<br>
+*Environmental Health Perspectives*, July 2021
+
 **Reproductive Health Care in Catholic-Owned Hospitals**<br>
 with David Slusky and Donna Ginther<br>
 *Journal of Health Economics*, Vol.65, 2019<br>
@@ -166,9 +170,32 @@ Also as NBER WP 23768. [Coverage: STAT, Scientific American, Modern Health Care]
 with Lianlian Lei and Feng Liu<br>
 *Journal of Development Studies*, 2017
 
+**Drinking Water, Fracking, and Infant Health**<br>
+with Lala Ma<br>
+*Journal of Health Economics*, 2022
+
+**The Impact of Oil and Gas Extraction on Infant Health**<br>
+*American Journal of Health Economics*, 2024<br>
+[NBER WP 30684]
+
+**Natural Gas Development, Flaring, and Pediatric Asthma Hospitalizations in Texas**<br>
+with Mary Willis, Alina Denham, and Perry Hystad<br>
+*International Journal of Epidemiology*, 2020
+
+**Unconventional Natural Gas Development and Hospitalizations: Evidence from Pennsylvania, 2003-2014**<br>
+with Alina Denham, Mary Willis, and Alexis Zavez<br>
+*Public Health*, Vol. 168, 2019
+
+
+**Shale Gas Development and Infant Health: Evidence from Pennsylvania**<br>
+*Journal of Health Economics*, Vol. 61, 2018
+
+
 **Birth Spacing and Educational Outcomes** (Book Chapter)<br> 
 with David Slusky<br>
 *Advances in Health Economics and Health Services Research*, In Human Capital and Health Behavior, pp. 3-29. Emerald Publishing Limited, 2017 
+
+
 
 
 ## Opioid Crisis & Substance Use Disorder
