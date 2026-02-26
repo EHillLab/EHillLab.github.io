@@ -30,6 +30,8 @@ Email: elaine_hill@urmc.rochester.edu<br>
 <div style="clear: both;"></div>
 
 #### Affliated Faculty Member
+<div style="height: 1px;"></div>
+
 **[Institute for Data Science](http://www.rochester.edu/data-science/)** <br>
 **[Environmental Health Sciences Center](https://www.urmc.rochester.edu/environmental-health-sciences)**
 
