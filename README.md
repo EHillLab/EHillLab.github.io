@@ -5,7 +5,9 @@
 
 <img src="elaine_image1.jpg" alt="Elaine" class="profile-img">
 
-I am Professor in the Departments of Public Health Sciences, of Economics, and of Obstetrics & Gynecology at the University of Rochester. I am a health and environmental economist. I am also a Research Associate at the National Bureau of Economic Research (NBER) and hold a courtesy appointment at Oregon State University. My research is at the intersection of health, health policy, and the environment and human capital formation. To learn more, please see my [CV](Elaine_L_Hill_CV.pdf) and [research page](research.md).
+Welcome!
+
+I am <strong style="font-size: 1.0em;">Dean's Professor</strong> in the Departments of Public Health Sciences, of Economics, and of Obstetrics & Gynecology at the University of Rochester. I am a health and environmental economist. I am also a Research Associate at the National Bureau of Economic Research (NBER) and hold a courtesy appointment at Oregon State University. My research is at the intersection of health, health policy, and the environment and human capital formation. To learn more, please see my [CV](Elaine_L_Hill_CV.pdf) and [research page](research.md).
 
 <!--
 <p class="bio-block" align="left" style="line-height: 1.2; margin-top: 90px;">
@@ -27,10 +29,13 @@ Email: elaine_hill@urmc.rochester.edu<br>
 <!--
 I am Professor in the Departments of Public Health Sciences, of Economics, and of Obstetrics & Gynecology at the University of Rochester. I am a health and environmental economist. I am also a Research Associate at the National Bureau of Economic Research (NBER) and hold a courtesy appointment at Oregon State University. My research is at the intersection of health, health policy, and the environment and human capital formation. To learn more, please see my [CV](Elaine_L_Hill_CV.pdf) and [research page](research.md).
 -->
+
 **[NBER Research Associate](https://www.nber.org/people/elaine_hill?page=1&perPage=50)<br>**
 **[Health and Environmental Economics Lab](https://www.urmc.rochester.edu/labs/hill)<br>**
 **[Google Scholar Citations](https://scholar.google.com/citations?user=0wa_KMgAAAAJ&hl=en)<br>**
 **[Selected Coverage of My Research](news_media.md)**
+
+<div style="clear: both;"></div>
 
 #### Affliated Faculty Member
 **[Institute for Data Science](http://www.rochester.edu/data-science/)** <br>
