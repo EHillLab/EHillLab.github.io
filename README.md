@@ -6,12 +6,9 @@
 <img src="elaine_image1.jpg" alt="Elaine" class="profile-img">
 
 <p align="center" style="line-height: 1.2;">
-
-**Dean's Professor**  
-Department of Public Health Sciences  
-Department of Economics (joint)  
-Department of Obstetrics & Gynecology (joint)
-</p>
+<strong style="font-size: 1.2em;">Dean's Professor</strong><br>
+Department of Public Health Sciences<br>
+Department of Economics (joint)<br>
 <div class="centered-info">
 
 <p align="center" style="line-height: 1.2;">
