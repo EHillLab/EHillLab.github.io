@@ -6,7 +6,9 @@
 <img src="elaine_image1.jpg" alt="Elaine" class="profile-img">
 
 
-Elaine Hill is Dean's Professor in the Public Health Sciences, and a Professor of Economics and of Obstetrics & Gynecology at the University of Rochester. She is a health and environmental economist and her research focuses on the intersection of health, health policy, the environment, and human capital formation. She is also a Research Associate at the National Bureau of Economic Research (NBER), a faculty member in the Goergen Institute for Data Science and Artificial Intelligence at the University of Rochester, and holds a courtesy appointment at Oregon State University. She holds a BA in Economics and Mathematics from Oberlin College and a PhD from Cornell University. To learn more, please see her [CV](Elaine_L_Hill_CV.pdf) and [research page](research.md).
+Elaine Hill is Dean's Professor in the Public Health Sciences, and a Professor of Economics and of Obstetrics & Gynecology at the University of Rochester. She is a health and environmental economist and her research focuses on the intersection of health, health policy, the environment, and human capital formation. 
+
+She is also a Research Associate at the National Bureau of Economic Research (NBER), a faculty member in the Goergen Institute for Data Science and Artificial Intelligence at the University of Rochester, and holds a courtesy appointment at Oregon State University. She holds a BA in Economics and Mathematics from Oberlin College and a PhD from Cornell University. To learn more, please see her [CV](Elaine_L_Hill_CV.pdf) and [research page](research.md).
 
 
 <p class="bio-block" align="left" style="line-height: 1.2; margin-top: 35px;">
