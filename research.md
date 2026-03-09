@@ -78,7 +78,7 @@ A Larkin, MD Willis, L Harris, B Ritz, EL Hill, P Hystad<br>
 **Drinking Water Contaminant Concentrations and Birth Outcomes**<br>
 with Richard DiSalvo<br>
 *Journal of Policy Analysis and Management*, 2023 [Paper📄](https://pmc.ncbi.nlm.nih.gov/articles/PMC11230651/)<br>
-[NBER WP 31567](https://www.nber.org/papers/w31567) [Coverage: NBER Bulletin on Health](https://www.nber.org/bh/20233/drinking-water-contamination-even-low-levels-affects-birth-outcomes?page=1&perPage=50)
+[[NBER WP 31567](https://www.nber.org/papers/w31567)] [[Coverage: NBER Bulletin on Health](https://www.nber.org/bh/20233/drinking-water-contamination-even-low-levels-affects-birth-outcomes?page=1&perPage=50)]
 
 **Influence of Community Determinants on Barriers and Facilitators to COVID-19 Vaccine Uptake: Regional Stakeholders' Perspectives**<br>
 with Russ S, Bennett N, van Wijngaarden E, Liu Y<br>
