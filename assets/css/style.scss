@@ -105,12 +105,9 @@ a:hover {
    Emoji Fix
    =================================== */
 .paper-emoji {
-  display: inline-block !important;
-  font-size: 0.85em !important;
-  filter: sepia(100%) saturate(500%) hue-rotate(195deg) brightness(0.9) !important;
-  -webkit-filter: sepia(100%) saturate(500%) hue-rotate(195deg) brightness(0.9) !important;
-  color: transparent !important;
-  text-shadow: none !important;
+  font-size: 0.75em !important;
+  vertical-align: middle !important;
+  line-height: 1 !important;
 }
 /* ===================================
    PAPER STYLING
