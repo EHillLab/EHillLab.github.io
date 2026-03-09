@@ -105,9 +105,18 @@ a:hover {
 /* ===================================
    PAPER Emoji
    =================================== */
+/* Desktop */
 .paper-emoji {
-  font-size: 0.85em !important;
+  font-size: 0.90em !important;
   vertical-align: middle !important;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .paper-emoji {
+    font-size: 0.80em !important;
+    vertical-align: middle !important;
+  }
 }
 
 /* ===================================
