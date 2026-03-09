@@ -41,7 +41,7 @@ with Robert W Hurley, Khadijah T Bland, Mira D Chaskes, Meredith CB Adams<br>
 
 **A Population-Based Study of Rates of Invasive Bacterial Infection (IBI) and Missed IBI in Febrile Infants 8-90 Days of Age**<br>
 with JP Yaeger, A Ertefaie, KA Fiscella<br>
-*The Journal of Pediatrics*, vol. 282, 114578, July 2025 [Paper📄][(YOUR_URL_HERE)](https://pubmed.ncbi.nlm.nih.gov/40199453/)
+*The Journal of Pediatrics*, vol. 282, 114578, July 2025 [Paper📄](https://pubmed.ncbi.nlm.nih.gov/40199453/)
 
 **Limited Impact of Roadway Construction and Traffic Congestion on Nearby Housing Prices**<br>
 with Lena Harris, Max Harleman, Mary Willis, and Perry Hystad<br>
