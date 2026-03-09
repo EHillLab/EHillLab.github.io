@@ -7,7 +7,7 @@ with Alecia Cassidy and Lala Ma<br>
 
 **Negotiations of Oil and Gas Auxiliary Lease Clauses: Evidence from Pennsylvania's Marcellus Shale**<br>
 with Max Harleman and Pramod Manohar<br>
-*Resource and Energy Economics*, forthcoming
+*Resource and Energy Economics*, 2025  <a class="paper-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0928765525000399">Paper <span class="paper-emoji">🗐</span></a>
 
 **Limited Impact of Roadway Construction and Traffic Congestion on Nearby Housing Prices**<br>
 with Lena Harris, Max Harleman, Mary Willis, and Perry Hystad<br>
