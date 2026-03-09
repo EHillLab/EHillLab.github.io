@@ -113,7 +113,7 @@ a:hover {
   color: #005595;
   line-height: 1.4;
 }
-
+/*
 .paper-title a {
   color: #005595 !important;
 }
@@ -121,7 +121,14 @@ a:hover {
 .paper-title a:hover {
   color: #003d6b !important;
 }
+*/
 
+.paper-title a {
+  color: #0066cc !important;  /* was #005595 */
+}
+.paper-title a:hover {
+  color: #0044aa !important;  /* was #003d6b */
+}
 .paper-authors {
   color: #666;
   font-size: 15px;
@@ -134,15 +141,29 @@ a:hover {
   margin-top: 3px;
   color: #666;
 }
-
+/*
 .paper-links a {
   color: #228B22 !important;
   text-decoration: none;
 }
+*/
 
+.paper-links a {
+  color: #0066cc !important;
+  font-weight: 500 !important;
+  text-decoration: none;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+/*
 .paper-links a:hover {
   color: #156b15 !important;
   text-decoration: underline;
+}
+*/
+.paper-links a:hover {
+  background-color: #e8f0fe;
+  color: #0044aa !important;
 }
 
 /* ===================================
