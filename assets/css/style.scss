@@ -101,14 +101,7 @@ a:hover {
   font-style: italic;
 }
 
-/* ===================================
-   Emoji Fix
-   =================================== */
-.paper-emoji {
-  font-size: 0.55em !important;
-  vertical-align: middle !important;
-  line-height: 1 !important;
-}
+
 /* ===================================
    PAPER STYLING
    =================================== */
@@ -140,10 +133,16 @@ a:hover {
   margin-top: 3px;
   color: #666;
 }
-
+/*
 .paper-links a {
   color: #228B22;
   text-decoration: none;
+}
+*/
+
+.paper-links a {
+  color: #0077ff !important;
+     text-decoration: none;
 }
 
 .paper-links a:hover {
