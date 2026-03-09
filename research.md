@@ -7,9 +7,9 @@ with Alecia Cassidy and Lala Ma<br>
 *Accepted at Journal of Political Economy Microeconomics*<br>
 [[NBER WP 30661](https://www.nber.org/papers/w30661)] [[Coverage: NBER Bulletin on Environment and Energy](https://www.nber.org/reporter/2023number4/program-report-environment-and-energy-economics)]
 
-[State Medicaid Spending for Long-Term Services and Supports (LTSS) and the Self-Reported Health of Spousal Caregivers of Community-Dwelling Older Adults with Dementia](https://www.sciencedirect.com/science/article/pii/S2667032126000016)<br>
+**State Medicaid Spending for Long-Term Services and Supports (LTSS) and the Self-Reported Health of Spousal Caregivers of Community-Dwelling Older Adults with Dementia**<br>
 with Zijing Cheng, Daniel D Maeng, Hochang B Lee, Jennifer M Reckrey, Giselle Routhier, Meiling Ying, Yue Li<br>
-*Aging and Health Research*, Jan 2026
+*Aging and Health Research*, Jan 2026 [Paper📄](https://www.sciencedirect.com/science/article/pii/S2667032126000016)
 
 **Negotiations of Oil and Gas Auxiliary Lease Clauses: Evidence from Pennsylvania's Marcellus Shale**<br>
 with Max Harleman and Pramod Manohar<br>
@@ -19,29 +19,41 @@ with Max Harleman and Pramod Manohar<br>
 Nicolas P. Goldstein Novick, Peter J. Veazie, Elaine L. Hill, Eva K. Pressman, Peter G. Szilagyi, Timothy D. Nelin, Scott A. Lorch<br>
 *Health Services Research*, September 14, 2025
 
-[Evidence-Based Framework for Identifying Opioid Use Disorder in Administrative Data: A Systematic Review and Methodological Development Study](https://academic.oup.com/painmedicine/article/27/2/145/8240851)<br>
+**Evidence-Based Framework for Identifying Opioid Use Disorder in Administrative Data: A Systematic Review and Methodological Development Study**<br>
 Robert W. Hurley, Khadijah T. Bland, Mira D. Chaskes, Daniel Guth, Elaine L. Hill, Meredith CB Adams<br>
-*Pain Medicine*, August 25, 2025
+*Pain Medicine*, August 25, 2025 [Paper📄](https://academic.oup.com/painmedicine/article/27/2/145/8240851)
 
-[Medicaid Coverage Policy Variations for Chronic Pain and Opioid Use Disorder Treatment](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837480)<br>
+**Medicaid Coverage Policy Variations for Chronic Pain and Opioid Use Disorder Treatment**<br>
 Meredith CB Adams, Seth M. Eller, Cara McDonnell, Sarjona Sritharan, Rishika Chikoti, Amaar Alwani, Elaine L. Hill, Robert W. Hurley<br>
-*JAMA Network Open*, August 2025
+*JAMA Network Open*, August 2025 [Paper📄](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837480)
 
-[Has Increased Medicaid Spending on Home- and Community-Based Services Reduced Unmet Needs in Activities of Daily Living Care among Community-Dwelling Older Adults with Dementia? Evidence from 2008 to 2020](https://www.sciencedirect.com/science/article/abs/pii/S1525861025002087)<br>
+**Has Increased Medicaid Spending on Home- and Community-Based Services Reduced Unmet Needs in Activities of Daily Living Care among Community-Dwelling Older Adults with Dementia? Evidence from 2008 to 2020**<br>
 Zijing Cheng, Hochang B. Lee, Daniel D. Maeng, Elaine L. Hill, Yue Li<br>
-*Journal of the American Medical Directors Association*, Vol. 26, No. 8, August 2025
+*Journal of the American Medical Directors Association*, Vol. 26, No. 8, August 2025 [Paper📄](https://www.sciencedirect.com/science/article/abs/pii/S1525861025002087)
 
 **Impact of Drug Shortages on Cancer Care Delivery Within the National Cancer Institute Community Oncology Research Program**<br>
 Lauren V Ghazal, Supriya Mohile, Kah Poh Loh, Karen Mustian, Grace Sventek, Umang Gada, Chin-Shang Li, Eva Culakova, Melyssa Foust, Judith O Hopkins, Heather Kehn, Charles Kamen, Erin R Fox, Elaine L Hill<br>
-*JCO Oncology Practice*, 2025
+*JCO Oncology Practice*, 2025 [Paper📄](https://pubmed.ncbi.nlm.nih.gov/40712114/)
 
 **Diagnosis and Coding of Opioid Misuse: A Systematic Scoping Review and Implementation Framework**<br>
 with Robert W Hurley, Khadijah T Bland, Mira D Chaskes, Meredith CB Adams<br>
-*Pain Medicine*, Feb 2025
+*Pain Medicine*, Feb 2025 [Paper📄](https://pubmed.ncbi.nlm.nih.gov/40036760/)
+
+**A Population-Based Study of Rates of Invasive Bacterial Infection (IBI) and Missed IBI in Febrile Infants 8-90 Days of Age**<br>
+with JP Yaeger, A Ertefaie, KA Fiscella<br>
+*The Journal of Pediatrics*, vol. 282, 114578, July 2025 [Paper📄][(YOUR_URL_HERE)](https://pubmed.ncbi.nlm.nih.gov/40199453/)
 
 **Limited Impact of Roadway Construction and Traffic Congestion on Nearby Housing Prices**<br>
 with Lena Harris, Max Harleman, Mary Willis, and Perry Hystad<br>
 *Transport Policy*, forthcoming
+
+**Portable Medical Orders and Inpatient Cost at End of Life in Acute Myeloid Leukemia and Myelodysplastic Syndromes**<br>
+with M LoCastro, A Baran, J Liesveld, E Huselton, KP Loh, JH Mendler<br>
+*JCO Oncology Practice*, vol. 21, no. 6, pp. 876-882, June 2025 [Paper📄](https://pubmed.ncbi.nlm.nih.gov/39680824/)
+
+**Racial and Urban-Rural Disparities in Lung Cancer Care: Insight from a Latent Class Growth Analysis**<br>
+with S Jaferian, T Love, SK Singh, Y Xie, JR Wolf<br>
+*Journal of Cancer Policy*, vol. 44, 100585, June 2025 [Paper📄](https://pubmed.ncbi.nlm.nih.gov/40222455/)
 
 **Roadway Construction as a Natural Experiment to Examine Air Pollution Impacts on Infant Health**<br>
 with Max Harleman, Lena Harris, Grace Sventek, Beate Ritz, Erin J. Campbell, Mary Willis, Perry Hystad<br>
