@@ -7,7 +7,7 @@ with Alecia Cassidy and Lala Ma<br>
 *Accepted at Journal of Political Economy Microeconomics*<br>
 [[NBER WP 30661](https://www.nber.org/papers/w30661)] [[Coverage: NBER Bulletin on Environment and Energy](https://www.nber.org/reporter/2023number4/program-report-environment-and-energy-economics)]
 
-**State Medicaid Spending for Long-Term Services and Supports (LTSS) and the Self-Reported Health of Spousal Caregivers of Community-Dwelling Older Adults with Dementia**<br>
+[State Medicaid Spending for Long-Term Services and Supports (LTSS) and the Self-Reported Health of Spousal Caregivers of Community-Dwelling Older Adults with Dementia](https://www.sciencedirect.com/science/article/pii/S2667032126000016)<br>
 with Zijing Cheng, Daniel D Maeng, Hochang B Lee, Jennifer M Reckrey, Giselle Routhier, Meiling Ying, Yue Li<br>
 *Aging and Health Research*, Jan 2026
 
@@ -19,15 +19,15 @@ with Max Harleman and Pramod Manohar<br>
 Nicolas P. Goldstein Novick, Peter J. Veazie, Elaine L. Hill, Eva K. Pressman, Peter G. Szilagyi, Timothy D. Nelin, Scott A. Lorch<br>
 *Health Services Research*, September 14, 2025
 
-**Evidence-Based Framework for Identifying Opioid Use Disorder in Administrative Data: A Systematic Review and Methodological Development Study**<br>
+[Evidence-Based Framework for Identifying Opioid Use Disorder in Administrative Data: A Systematic Review and Methodological Development Study](https://academic.oup.com/painmedicine/article/27/2/145/8240851)<br>
 Robert W. Hurley, Khadijah T. Bland, Mira D. Chaskes, Daniel Guth, Elaine L. Hill, Meredith CB Adams<br>
 *Pain Medicine*, August 25, 2025
 
-**Medicaid Coverage Policy Variations for Chronic Pain and Opioid Use Disorder Treatment**<br>
+[Medicaid Coverage Policy Variations for Chronic Pain and Opioid Use Disorder Treatment](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837480)<br>
 Meredith CB Adams, Seth M. Eller, Cara McDonnell, Sarjona Sritharan, Rishika Chikoti, Amaar Alwani, Elaine L. Hill, Robert W. Hurley<br>
 *JAMA Network Open*, August 2025
 
-**Has Increased Medicaid Spending on Home- and Community-Based Services Reduced Unmet Needs in Activities of Daily Living Care among Community-Dwelling Older Adults with Dementia? Evidence from 2008 to 2020**<br>
+[Has Increased Medicaid Spending on Home- and Community-Based Services Reduced Unmet Needs in Activities of Daily Living Care among Community-Dwelling Older Adults with Dementia? Evidence from 2008 to 2020](https://www.sciencedirect.com/science/article/abs/pii/S1525861025002087)<br>
 Zijing Cheng, Hochang B. Lee, Daniel D. Maeng, Elaine L. Hill, Yue Li<br>
 *Journal of the American Medical Directors Association*, Vol. 26, No. 8, August 2025
 
