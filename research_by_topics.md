@@ -11,7 +11,7 @@ with Max Harleman and Pramod Manohar<br>
 
 **Limited Impact of Roadway Construction and Traffic Congestion on Nearby Housing Prices**<br>
 with Lena Harris, Max Harleman, Mary Willis, and Perry Hystad<br>
-*Transport Policy*, forthcoming
+*Transport Policy*, 2024 <a class="paper-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0967070X2400221X">Paper <span class="paper-emoji">🗐</span></a>
 
 **The Impact of Oil and Gas Extraction on Infant Health**<br>
 *American Journal of Health Economics*, 2024 <a class="paper-link" href="https://www.journals.uchicago.edu/doi/abs/10.1086/724218">Paper <span class="paper-emoji">🗐</span></a><br>
