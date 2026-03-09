@@ -13,55 +13,55 @@ with Zijing Cheng, Daniel D Maeng, Hochang B Lee, Jennifer M Reckrey, Giselle Ro
 
 **Negotiations of Oil and Gas Auxiliary Lease Clauses: Evidence from Pennsylvania's Marcellus Shale**<br>
 with Max Harleman and Pramod Manohar<br>
-*Resource and Energy Economics*, 2025  [Paper 🗐](https://www.sciencedirect.com/science/article/abs/pii/S0928765525000399)
+*Resource and Energy Economics*, 2025  <a class="paper-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0928765525000399">Paper <span class="paper-emoji">🗐</span></a>
 
 **The Impact of Increased Medicaid Eligibility During Pregnancy on Medicaid Utilization and Gestational Age**<br>
 Nicolas P. Goldstein Novick, Peter J. Veazie, Elaine L. Hill, Eva K. Pressman, Peter G. Szilagyi, Timothy D. Nelin, Scott A. Lorch<br>
-*Health Services Research*, September 14, 2025 [Paper 🗐](https://pubmed.ncbi.nlm.nih.gov/40947491/)
+*Health Services Research*, September 14, 2025 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/40947491/">Paper <span class="paper-emoji">🗐</span></a>
 
 **Evidence-Based Framework for Identifying Opioid Use Disorder in Administrative Data: A Systematic Review and Methodological Development Study**<br>
 Robert W. Hurley, Khadijah T. Bland, Mira D. Chaskes, Daniel Guth, Elaine L. Hill, Meredith CB Adams<br>
-*Pain Medicine*, August 25, 2025 [Paper 🗐](https://academic.oup.com/painmedicine/article/27/2/145/8240851)
+*Pain Medicine*, August 25, 2025 <a class="paper-link" href="https://academic.oup.com/painmedicine/article/27/2/145/8240851">Paper <span class="paper-emoji">🗐</span></a>
 
 **Medicaid Coverage Policy Variations for Chronic Pain and Opioid Use Disorder Treatment**<br>
 Meredith CB Adams, Seth M. Eller, Cara McDonnell, Sarjona Sritharan, Rishika Chikoti, Amaar Alwani, Elaine L. Hill, Robert W. Hurley<br>
-*JAMA Network Open*, August 2025 [Paper 🗐](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837480)
+*JAMA Network Open*, August 2025 <a class="paper-link" href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837480">Paper <span class="paper-emoji">🗐</span></a>
 
 **Has Increased Medicaid Spending on Home- and Community-Based Services Reduced Unmet Needs in Activities of Daily Living Care among Community-Dwelling Older Adults with Dementia? Evidence from 2008 to 2020**<br>
 Zijing Cheng, Hochang B. Lee, Daniel D. Maeng, Elaine L. Hill, Yue Li<br>
-*Journal of the American Medical Directors Association*, Vol. 26, No. 8, August 2025 [Paper 🗐](https://www.sciencedirect.com/science/article/abs/pii/S1525861025002087)
+*Journal of the American Medical Directors Association*, Vol. 26, No. 8, August 2025 <a class="paper-link" href="https://www.sciencedirect.com/science/article/abs/pii/S1525861025002087">Paper <span class="paper-emoji">🗐</span></a>
 
 **Impact of Drug Shortages on Cancer Care Delivery Within the National Cancer Institute Community Oncology Research Program**<br>
 Lauren V Ghazal, Supriya Mohile, Kah Poh Loh, Karen Mustian, Grace Sventek, Umang Gada, Chin-Shang Li, Eva Culakova, Melyssa Foust, Judith O Hopkins, Heather Kehn, Charles Kamen, Erin R Fox, Elaine L Hill<br>
-*JCO Oncology Practice*, 2025 [Paper 🗐](https://pubmed.ncbi.nlm.nih.gov/40712114/)
+*JCO Oncology Practice*, 2025 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/40712114/">Paper <span class="paper-emoji">🗐</span></a>
 
 **Diagnosis and Coding of Opioid Misuse: A Systematic Scoping Review and Implementation Framework**<br>
 with Robert W Hurley, Khadijah T Bland, Mira D Chaskes, Meredith CB Adams<br>
-*Pain Medicine*, Feb 2025 [Paper 🗐](https://pubmed.ncbi.nlm.nih.gov/40036760/)
+*Pain Medicine*, Feb 2025 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/40036760/">Paper <span class="paper-emoji">🗐</span></a>
 
 **A Population-Based Study of Rates of Invasive Bacterial Infection (IBI) and Missed IBI in Febrile Infants 8-90 Days of Age**<br>
 with JP Yaeger, A Ertefaie, KA Fiscella<br>
-*The Journal of Pediatrics*, vol. 282, 114578, July 2025 [Paper 🗐](https://pubmed.ncbi.nlm.nih.gov/40199453/)
+*The Journal of Pediatrics*, vol. 282, 114578, July 2025 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/40199453/">Paper <span class="paper-emoji">🗐</span></a>
 
 **Limited Impact of Roadway Construction and Traffic Congestion on Nearby Housing Prices**<br>
 with Lena Harris, Max Harleman, Mary Willis, and Perry Hystad<br>
-*Transport Policy*, 2024 [Paper 🗐](https://www.sciencedirect.com/science/article/abs/pii/S0967070X2400221X)
+*Transport Policy*, 2024 <a class="paper-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0967070X2400221X">Paper <span class="paper-emoji">🗐</span></a>
 
 **Portable Medical Orders and Inpatient Cost at End of Life in Acute Myeloid Leukemia and Myelodysplastic Syndromes**<br>
 with M LoCastro, A Baran, J Liesveld, E Huselton, KP Loh, JH Mendler<br>
-*JCO Oncology Practice*, vol. 21, no. 6, pp. 876-882, June 2025 [Paper 🗐](https://pubmed.ncbi.nlm.nih.gov/39680824/)
+*JCO Oncology Practice*, vol. 21, no. 6, pp. 876-882, June 2025 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/39680824/">Paper <span class="paper-emoji">🗐</span></a>
 
 **Racial and Urban-Rural Disparities in Lung Cancer Care: Insight from a Latent Class Growth Analysis**<br>
 with S Jaferian, T Love, SK Singh, Y Xie, JR Wolf<br>
-*Journal of Cancer Policy*, vol. 44, 100585, June 2025 [Paper 🗐](https://pubmed.ncbi.nlm.nih.gov/40222455/)
+*Journal of Cancer Policy*, vol. 44, 100585, June 2025 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/40222455/">Paper <span class="paper-emoji">🗐</span></a>
 
 **Roadway Construction as a Natural Experiment to Examine Air Pollution Impacts on Infant Health**<br>
 with Max Harleman, Lena Harris, Grace Sventek, Beate Ritz, Erin J. Campbell, Mary Willis, Perry Hystad<br>
-*Environmental Research*, 2024, 118788 [Paper 🗐](https://pubmed.ncbi.nlm.nih.gov/38555097/)
+*Environmental Research*, 2024, 118788 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/38555097/">Paper <span class="paper-emoji">🗐</span></a>
 
 **Insights from an N3C RECOVER EHR-based Cohort Study Characterizing SARS-CoV-2 Reinfections and Long COVID**<br>
 Emily Hadley, Yun Jae Yoo, Saaya Patel, Andrea Zhou, Bryan Laraway, Rachel Wong, Alexander Preiss, Rob Chew, Hannah Davis, M. Daniel Brannock, Christopher G. Chute, Emily R. Pfaff, Johanna Loomba, Melissa Haendel, Elaine Hill, N3C and RECOVER consortia & Richard Moffitt<br>
-*Communications Medicine*, vol.4, 2024 [Paper 🗐](https://www.nature.com/articles/s43856-024-00539-2)
+*Communications Medicine*, vol.4, 2024 <a class="paper-link" href="https://www.nature.com/articles/s43856-024-00539-2">Paper <span class="paper-emoji">🗐</span></a>
 
 **Assessing Associations Between Individual-Level Social Determinants of Health and COVID-19 Hospitalizations: Investigating Racial/Ethnic Disparities Among People Living with HIV in the U.S. National COVID Cohort Collaborative (N3C)**<br>
 Dimple Vaidya, Kenneth J Wilkins, Eric Hurwitz, Jessica Y Islam, Dongmei Li, Jing Sun, Sandra E Safo, Jennifer M Ross, Shukri Hassan, Elaine Hill, Bohdan Nosyk, Cara D Varley, Nada Fadul, Marlene Camacho-Rivera, Charisse Madlock-Brown, Rena C Patel<br>
