@@ -102,14 +102,15 @@ a:hover {
 }
 
 /* ===================================
-   Emoji Link
+   Emoji Fix
    =================================== */
-
 .paper-emoji {
-  filter: sepia(100%) saturate(500%) hue-rotate(195deg) !important;
-  font-size: 0.85em !important; /* shrinks it to match text */
   display: inline-block !important;
-  -webkit-filter: sepia(100%) saturate(500%) hue-rotate(195deg) !important; /* Safari/iOS fix */
+  font-size: 0.85em !important;
+  filter: sepia(100%) saturate(500%) hue-rotate(195deg) brightness(0.9) !important;
+  -webkit-filter: sepia(100%) saturate(500%) hue-rotate(195deg) brightness(0.9) !important;
+  color: transparent !important;
+  text-shadow: none !important;
 }
 /* ===================================
    PAPER STYLING
