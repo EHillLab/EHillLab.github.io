@@ -107,16 +107,9 @@ a:hover {
 
 .paper-emoji {
   filter: sepia(100%) saturate(500%) hue-rotate(195deg) !important;
-}
-
-.paper-emoji {
-  font-size: 1em;
-}
-
-@media only screen and (max-width: 768px) {
-  .paper-emoji {
-    font-size: 14px; /* adjust this until it looks right on phone */
-  }
+  font-size: 0.85em !important; /* shrinks it to match text */
+  display: inline-block !important;
+  -webkit-filter: sepia(100%) saturate(500%) hue-rotate(195deg) !important; /* Safari/iOS fix */
 }
 /* ===================================
    PAPER STYLING
