@@ -9,19 +9,19 @@ with Alecia Cassidy and Lala Ma<br>
 
 **State Medicaid Spending for Long-Term Services and Supports (LTSS) and the Self-Reported Health of Spousal Caregivers of Community-Dwelling Older Adults with Dementia**<br>
 with Zijing Cheng, Daniel D Maeng, Hochang B Lee, Jennifer M Reckrey, Giselle Routhier, Meiling Ying, Yue Li<br>
-*Aging and Health Research*, Jan 2026 [Paper 🗐](https://www.sciencedirect.com/science/article/pii/S2667032126000016)
+*Aging and Health Research*, Jan 2026 [Paper 📚](https://www.sciencedirect.com/science/article/pii/S2667032126000016)
 
 **Negotiations of Oil and Gas Auxiliary Lease Clauses: Evidence from Pennsylvania's Marcellus Shale**<br>
 with Max Harleman and Pramod Manohar<br>
-*Resource and Energy Economics*, 2025  [Paper 🗐](https://www.sciencedirect.com/science/article/abs/pii/S0928765525000399)
+*Resource and Energy Economics*, 2025  [Paper 📚](https://www.sciencedirect.com/science/article/abs/pii/S0928765525000399)
 
 **The Impact of Increased Medicaid Eligibility During Pregnancy on Medicaid Utilization and Gestational Age**<br>
 Nicolas P. Goldstein Novick, Peter J. Veazie, Elaine L. Hill, Eva K. Pressman, Peter G. Szilagyi, Timothy D. Nelin, Scott A. Lorch<br>
-*Health Services Research*, September 14, 2025 [Paper 🗐](https://pubmed.ncbi.nlm.nih.gov/40947491/)
+*Health Services Research*, September 14, 2025 [Paper 📚](https://pubmed.ncbi.nlm.nih.gov/40947491/)
 
 **Evidence-Based Framework for Identifying Opioid Use Disorder in Administrative Data: A Systematic Review and Methodological Development Study**<br>
 Robert W. Hurley, Khadijah T. Bland, Mira D. Chaskes, Daniel Guth, Elaine L. Hill, Meredith CB Adams<br>
-*Pain Medicine*, August 25, 2025 [Paper 🗐](https://academic.oup.com/painmedicine/article/27/2/145/8240851)
+*Pain Medicine*, August 25, 2025 [Paper 📚](https://academic.oup.com/painmedicine/article/27/2/145/8240851)
 
 **Medicaid Coverage Policy Variations for Chronic Pain and Opioid Use Disorder Treatment**<br>
 Meredith CB Adams, Seth M. Eller, Cara McDonnell, Sarjona Sritharan, Rishika Chikoti, Amaar Alwani, Elaine L. Hill, Robert W. Hurley<br>
