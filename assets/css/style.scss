@@ -103,6 +103,14 @@ a:hover {
 
 
 /* ===================================
+   PAPER Emoji
+   =================================== */
+.paper-emoji {
+  font-size: 0.85em !important;
+  vertical-align: middle !important;
+}
+
+/* ===================================
    PAPER STYLING
    =================================== */
 .paper {
@@ -146,7 +154,7 @@ a:hover {
 }
 
 .paper-links a:hover {
-  background-color: #e8f0fe;
+  background-color: #0077ff;
   color: #0044aa;
 }
 
