@@ -74,6 +74,7 @@ header a {
 
 /* ===================================
    LINKS   color: #005595 !important;
+for hover color: #003d6b !important
    =================================== */
 section a,
 a {
@@ -84,7 +85,7 @@ a {
 
 section a:hover,
 a:hover {
-  color: #003d6b !important;
+  color: #003d6b;
   text-decoration: underline;
 }
 
