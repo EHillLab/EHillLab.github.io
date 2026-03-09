@@ -65,43 +65,43 @@ Emily Hadley, Yun Jae Yoo, Saaya Patel, Andrea Zhou, Bryan Laraway, Rachel Wong,
 
 **Assessing Associations Between Individual-Level Social Determinants of Health and COVID-19 Hospitalizations: Investigating Racial/Ethnic Disparities Among People Living with HIV in the U.S. National COVID Cohort Collaborative (N3C)**<br>
 Dimple Vaidya, Kenneth J Wilkins, Eric Hurwitz, Jessica Y Islam, Dongmei Li, Jing Sun, Sandra E Safo, Jennifer M Ross, Shukri Hassan, Elaine Hill, Bohdan Nosyk, Cara D Varley, Nada Fadul, Marlene Camacho-Rivera, Charisse Madlock-Brown, Rena C Patel<br>
-*Journal of Clinical and Translational Science*, 2024 [Paper 🗐](https://pubmed.ncbi.nlm.nih.gov/39296577/)
+*Journal of Clinical and Translational Science*, 2024 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/39296577/">Paper <span class="paper-emoji">🗐</span></a>
 
 **Evaluating COVID-19 Vaccine Effectiveness During Pre-Delta, Delta and Omicron Dominant Periods Among Pregnant People in the U.S.: Retrospective Cohort Analysis from a Nationally Sampled Cohort in National COVID Collaborative Cohort (N3C)**<br>
 Qiuyuan Qin, Kenneth Wilkin, Sara E Jones, Katie Rebecca Bradwell, Lauren Chan, Jing Sun, Jerrod Anzalone, Qulu Zheng, Michael Liebman, Federico Mariona, Emily A Groene Faherty, Anup P Challa, Elaine Hill, Rena C Patel, on behalf of the N3C consortium<br>
-*BMJ Public Health*, 2024 [Paper 🗐](https://pubmed.ncbi.nlm.nih.gov/39363958/)
+*BMJ Public Health*, 2024 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/39363958/">Paper <span class="paper-emoji">🗐</span></a>
 
 **High Traffic Roads and Adverse Birth Outcomes: Comparing Births Upwind and Downwind of the Same Road**<br>
 A Larkin, MD Willis, L Harris, B Ritz, EL Hill, P Hystad<br>
-*American Journal of Epidemiology*, 2024 [Paper 🗐](https://pubmed.ncbi.nlm.nih.gov/38879742/)
+*American Journal of Epidemiology*, 2024 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/38879742/">Paper <span class="paper-emoji">🗐</span></a>
 
 **Drinking Water Contaminant Concentrations and Birth Outcomes**<br>
 with Richard DiSalvo<br>
-*Journal of Policy Analysis and Management*, 2023 [Paper 🗐](https://pmc.ncbi.nlm.nih.gov/articles/PMC11230651/)<br>
+*Journal of Policy Analysis and Management*, 2023 <a class="paper-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11230651/">Paper <span class="paper-emoji">🗐</span></a><br>
 [[NBER WP 31567](https://www.nber.org/papers/w31567)] [[Coverage: NBER Bulletin on Health](https://www.nber.org/bh/20233/drinking-water-contamination-even-low-levels-affects-birth-outcomes?page=1&perPage=50)]
 
 **Influence of Community Determinants on Barriers and Facilitators to COVID-19 Vaccine Uptake: Regional Stakeholders' Perspectives**<br>
 with Russ S, Bennett N, van Wijngaarden E, Liu Y<br>
-*Vaccine*, 2024 [Paper 🗐](https://pubmed.ncbi.nlm.nih.gov/38272763/)
+*Vaccine*, 2024 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/38272763/">Paper <span class="paper-emoji">🗐</span></a>
 
 **A Population-Based Cohort Study of Electronic Tolling, Traffic Congestion, and Adverse Birth Outcomes**<br>
 with Mary D Willis, Lena Harris, Erin J Campbell, Mira Chaskes, Ethan Sawyer, Max Harleman, Beate Ritz, Perry Hystad<br>
-*Environment International*, 2023 [Paper 🗐](https://pubmed.ncbi.nlm.nih.gov/38056094/)
+*Environment International*, 2023 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/38056094/">Paper <span class="paper-emoji">🗐</span></a>
 
 **Pregnancy Outcomes among Pregnant Persons after COVID-19 Vaccination: Assessing Vaccine Safety in Retrospective Cohort Analysis of U.S. National COVID Cohort Collaborative (N3C)**<br>
 Emily A. G. Faherty, Kenneth J. Wilkins, Sara Jones, Anup Challa, Qiuyuan Qin, Lauren E. Chan, Courtney Olson-Chen, Jessica L. Tarleton, Michael N. Liebman, Federico Mariona, Elaine L. Hill, Rena C. Patel, and The N3C Consortium<br>
-*Vaccine*, 2024 [Paper 🗐](https://pubmed.ncbi.nlm.nih.gov/38543923/)
+*Vaccine*, 2024 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/38543923/">Paper <span class="paper-emoji">🗐</span></a>
 
 **Is the emergency department used as a substitute or a complement to primary care in Medicaid?**<br>
 with Denham A, Raven M, Mendoza M, Raz M, Veazie PJ<br>
-*Health Economics, Policy and Law*, 2023 [Paper 🗐](https://pubmed.ncbi.nlm.nih.gov/37870129/)
+*Health Economics, Policy and Law*, 2023 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/37870129/">Paper <span class="paper-emoji">🗐</span></a>
 
 **Who is Pregnant? Defining Real-World Data-Based Pregnancy Episodes in the National COVID Cohort Collaborative (N3C)**<br>
 Jones, Sara, Katie R. Bradwell, Lauren E. Chan, Courtney Olson-Chen, Jessica Tarleton, Kenneth J. Wilkins, Qiuyuan Qin,…, Elaine L. Hill<br>
-*JAMIA Open*, 2024 [Paper 🗐](https://pubmed.ncbi.nlm.nih.gov/37600074/)
+*JAMIA Open*, 2024 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/37600074/">Paper <span class="paper-emoji">🗐</span></a>
 
 **The Impact of Oil and Gas Extraction on Infant Health**<br>
-*American Journal of Health Economics*, 2024 [Paper 🗐](https://www.journals.uchicago.edu/doi/abs/10.1086/724218)<br>
+*American Journal of Health Economics*, 2024 <a class="paper-link" href="https://www.journals.uchicago.edu/doi/abs/10.1086/724218">Paper <span class="paper-emoji">🗐</span></a><br>
 [NBER WP 30684]
 
 **Changes in Traffic Congestion and Air Pollution Due to Major Roadway Infrastructure Improvements in Texas**<br>
