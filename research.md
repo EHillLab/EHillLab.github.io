@@ -9,99 +9,99 @@ with Alecia Cassidy and Lala Ma<br>
 
 **State Medicaid Spending for Long-Term Services and Supports (LTSS) and the Self-Reported Health of Spousal Caregivers of Community-Dwelling Older Adults with Dementia**<br>
 with Zijing Cheng, Daniel D Maeng, Hochang B Lee, Jennifer M Reckrey, Giselle Routhier, Meiling Ying, Yue Li<br>
-*Aging and Health Research*, Jan 2026 [Paper📄](https://www.sciencedirect.com/science/article/pii/S2667032126000016)
+*Aging and Health Research*, Jan 2026 [Paper 🗐](https://www.sciencedirect.com/science/article/pii/S2667032126000016)
 
 **Negotiations of Oil and Gas Auxiliary Lease Clauses: Evidence from Pennsylvania's Marcellus Shale**<br>
 with Max Harleman and Pramod Manohar<br>
-*Resource and Energy Economics*, 2025  [Paper📄](https://www.sciencedirect.com/science/article/abs/pii/S0928765525000399)
+*Resource and Energy Economics*, 2025  [Paper 🗐](https://www.sciencedirect.com/science/article/abs/pii/S0928765525000399)
 
 **The Impact of Increased Medicaid Eligibility During Pregnancy on Medicaid Utilization and Gestational Age**<br>
 Nicolas P. Goldstein Novick, Peter J. Veazie, Elaine L. Hill, Eva K. Pressman, Peter G. Szilagyi, Timothy D. Nelin, Scott A. Lorch<br>
-*Health Services Research*, September 14, 2025 [Paper📄](https://pubmed.ncbi.nlm.nih.gov/40947491/)
+*Health Services Research*, September 14, 2025 [Paper 🗐](https://pubmed.ncbi.nlm.nih.gov/40947491/)
 
 **Evidence-Based Framework for Identifying Opioid Use Disorder in Administrative Data: A Systematic Review and Methodological Development Study**<br>
 Robert W. Hurley, Khadijah T. Bland, Mira D. Chaskes, Daniel Guth, Elaine L. Hill, Meredith CB Adams<br>
-*Pain Medicine*, August 25, 2025 [Paper📄](https://academic.oup.com/painmedicine/article/27/2/145/8240851)
+*Pain Medicine*, August 25, 2025 [Paper 🗐](https://academic.oup.com/painmedicine/article/27/2/145/8240851)
 
 **Medicaid Coverage Policy Variations for Chronic Pain and Opioid Use Disorder Treatment**<br>
 Meredith CB Adams, Seth M. Eller, Cara McDonnell, Sarjona Sritharan, Rishika Chikoti, Amaar Alwani, Elaine L. Hill, Robert W. Hurley<br>
-*JAMA Network Open*, August 2025 [Paper📄](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837480)
+*JAMA Network Open*, August 2025 [Paper 🗐](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837480)
 
 **Has Increased Medicaid Spending on Home- and Community-Based Services Reduced Unmet Needs in Activities of Daily Living Care among Community-Dwelling Older Adults with Dementia? Evidence from 2008 to 2020**<br>
 Zijing Cheng, Hochang B. Lee, Daniel D. Maeng, Elaine L. Hill, Yue Li<br>
-*Journal of the American Medical Directors Association*, Vol. 26, No. 8, August 2025 [Paper📄](https://www.sciencedirect.com/science/article/abs/pii/S1525861025002087)
+*Journal of the American Medical Directors Association*, Vol. 26, No. 8, August 2025 [Paper 🗐](https://www.sciencedirect.com/science/article/abs/pii/S1525861025002087)
 
 **Impact of Drug Shortages on Cancer Care Delivery Within the National Cancer Institute Community Oncology Research Program**<br>
 Lauren V Ghazal, Supriya Mohile, Kah Poh Loh, Karen Mustian, Grace Sventek, Umang Gada, Chin-Shang Li, Eva Culakova, Melyssa Foust, Judith O Hopkins, Heather Kehn, Charles Kamen, Erin R Fox, Elaine L Hill<br>
-*JCO Oncology Practice*, 2025 [Paper📄](https://pubmed.ncbi.nlm.nih.gov/40712114/)
+*JCO Oncology Practice*, 2025 [Paper 🗐](https://pubmed.ncbi.nlm.nih.gov/40712114/)
 
 **Diagnosis and Coding of Opioid Misuse: A Systematic Scoping Review and Implementation Framework**<br>
 with Robert W Hurley, Khadijah T Bland, Mira D Chaskes, Meredith CB Adams<br>
-*Pain Medicine*, Feb 2025 [Paper📄](https://pubmed.ncbi.nlm.nih.gov/40036760/)
+*Pain Medicine*, Feb 2025 [Paper 🗐](https://pubmed.ncbi.nlm.nih.gov/40036760/)
 
 **A Population-Based Study of Rates of Invasive Bacterial Infection (IBI) and Missed IBI in Febrile Infants 8-90 Days of Age**<br>
 with JP Yaeger, A Ertefaie, KA Fiscella<br>
-*The Journal of Pediatrics*, vol. 282, 114578, July 2025 [Paper📄](https://pubmed.ncbi.nlm.nih.gov/40199453/)
+*The Journal of Pediatrics*, vol. 282, 114578, July 2025 [Paper 🗐](https://pubmed.ncbi.nlm.nih.gov/40199453/)
 
 **Limited Impact of Roadway Construction and Traffic Congestion on Nearby Housing Prices**<br>
 with Lena Harris, Max Harleman, Mary Willis, and Perry Hystad<br>
-*Transport Policy*, 2024 [Paper📄](https://www.sciencedirect.com/science/article/abs/pii/S0967070X2400221X)
+*Transport Policy*, 2024 [Paper 🗐](https://www.sciencedirect.com/science/article/abs/pii/S0967070X2400221X)
 
 **Portable Medical Orders and Inpatient Cost at End of Life in Acute Myeloid Leukemia and Myelodysplastic Syndromes**<br>
 with M LoCastro, A Baran, J Liesveld, E Huselton, KP Loh, JH Mendler<br>
-*JCO Oncology Practice*, vol. 21, no. 6, pp. 876-882, June 2025 [Paper📄](https://pubmed.ncbi.nlm.nih.gov/39680824/)
+*JCO Oncology Practice*, vol. 21, no. 6, pp. 876-882, June 2025 [Paper 🗐](https://pubmed.ncbi.nlm.nih.gov/39680824/)
 
 **Racial and Urban-Rural Disparities in Lung Cancer Care: Insight from a Latent Class Growth Analysis**<br>
 with S Jaferian, T Love, SK Singh, Y Xie, JR Wolf<br>
-*Journal of Cancer Policy*, vol. 44, 100585, June 2025 [Paper📄](https://pubmed.ncbi.nlm.nih.gov/40222455/)
+*Journal of Cancer Policy*, vol. 44, 100585, June 2025 [Paper 🗐](https://pubmed.ncbi.nlm.nih.gov/40222455/)
 
 **Roadway Construction as a Natural Experiment to Examine Air Pollution Impacts on Infant Health**<br>
 with Max Harleman, Lena Harris, Grace Sventek, Beate Ritz, Erin J. Campbell, Mary Willis, Perry Hystad<br>
-*Environmental Research*, 2024, 118788 [Paper📄](https://pubmed.ncbi.nlm.nih.gov/38555097/)
+*Environmental Research*, 2024, 118788 [Paper 🗐](https://pubmed.ncbi.nlm.nih.gov/38555097/)
 
 **Insights from an N3C RECOVER EHR-based Cohort Study Characterizing SARS-CoV-2 Reinfections and Long COVID**<br>
 Emily Hadley, Yun Jae Yoo, Saaya Patel, Andrea Zhou, Bryan Laraway, Rachel Wong, Alexander Preiss, Rob Chew, Hannah Davis, M. Daniel Brannock, Christopher G. Chute, Emily R. Pfaff, Johanna Loomba, Melissa Haendel, Elaine Hill, N3C and RECOVER consortia & Richard Moffitt<br>
-*Communications Medicine*, vol.4, 2024 [Paper📄](https://www.nature.com/articles/s43856-024-00539-2)
+*Communications Medicine*, vol.4, 2024 [Paper 🗐](https://www.nature.com/articles/s43856-024-00539-2)
 
 **Assessing Associations Between Individual-Level Social Determinants of Health and COVID-19 Hospitalizations: Investigating Racial/Ethnic Disparities Among People Living with HIV in the U.S. National COVID Cohort Collaborative (N3C)**<br>
 Dimple Vaidya, Kenneth J Wilkins, Eric Hurwitz, Jessica Y Islam, Dongmei Li, Jing Sun, Sandra E Safo, Jennifer M Ross, Shukri Hassan, Elaine Hill, Bohdan Nosyk, Cara D Varley, Nada Fadul, Marlene Camacho-Rivera, Charisse Madlock-Brown, Rena C Patel<br>
-*Journal of Clinical and Translational Science*, 2024 [Paper📄](https://pubmed.ncbi.nlm.nih.gov/39296577/)
+*Journal of Clinical and Translational Science*, 2024 [Paper 🗐](https://pubmed.ncbi.nlm.nih.gov/39296577/)
 
 **Evaluating COVID-19 Vaccine Effectiveness During Pre-Delta, Delta and Omicron Dominant Periods Among Pregnant People in the U.S.: Retrospective Cohort Analysis from a Nationally Sampled Cohort in National COVID Collaborative Cohort (N3C)**<br>
 Qiuyuan Qin, Kenneth Wilkin, Sara E Jones, Katie Rebecca Bradwell, Lauren Chan, Jing Sun, Jerrod Anzalone, Qulu Zheng, Michael Liebman, Federico Mariona, Emily A Groene Faherty, Anup P Challa, Elaine Hill, Rena C Patel, on behalf of the N3C consortium<br>
-*BMJ Public Health*, 2024 [Paper📄](https://pubmed.ncbi.nlm.nih.gov/39363958/)
+*BMJ Public Health*, 2024 [Paper 🗐](https://pubmed.ncbi.nlm.nih.gov/39363958/)
 
 **High Traffic Roads and Adverse Birth Outcomes: Comparing Births Upwind and Downwind of the Same Road**<br>
 A Larkin, MD Willis, L Harris, B Ritz, EL Hill, P Hystad<br>
-*American Journal of Epidemiology*, 2024 [Paper📄](https://pubmed.ncbi.nlm.nih.gov/38879742/)
+*American Journal of Epidemiology*, 2024 [Paper 🗐](https://pubmed.ncbi.nlm.nih.gov/38879742/)
 
 **Drinking Water Contaminant Concentrations and Birth Outcomes**<br>
 with Richard DiSalvo<br>
-*Journal of Policy Analysis and Management*, 2023 [Paper📄](https://pmc.ncbi.nlm.nih.gov/articles/PMC11230651/)<br>
+*Journal of Policy Analysis and Management*, 2023 [Paper 🗐](https://pmc.ncbi.nlm.nih.gov/articles/PMC11230651/)<br>
 [[NBER WP 31567](https://www.nber.org/papers/w31567)] [[Coverage: NBER Bulletin on Health](https://www.nber.org/bh/20233/drinking-water-contamination-even-low-levels-affects-birth-outcomes?page=1&perPage=50)]
 
 **Influence of Community Determinants on Barriers and Facilitators to COVID-19 Vaccine Uptake: Regional Stakeholders' Perspectives**<br>
 with Russ S, Bennett N, van Wijngaarden E, Liu Y<br>
-*Vaccine*, 2024 [Paper📄](https://pubmed.ncbi.nlm.nih.gov/38272763/)
+*Vaccine*, 2024 [Paper 🗐](https://pubmed.ncbi.nlm.nih.gov/38272763/)
 
 **A Population-Based Cohort Study of Electronic Tolling, Traffic Congestion, and Adverse Birth Outcomes**<br>
 with Mary D Willis, Lena Harris, Erin J Campbell, Mira Chaskes, Ethan Sawyer, Max Harleman, Beate Ritz, Perry Hystad<br>
-*Environment International*, 2023 [Paper📄](https://pubmed.ncbi.nlm.nih.gov/38056094/)
+*Environment International*, 2023 [Paper 🗐](https://pubmed.ncbi.nlm.nih.gov/38056094/)
 
 **Pregnancy Outcomes among Pregnant Persons after COVID-19 Vaccination: Assessing Vaccine Safety in Retrospective Cohort Analysis of U.S. National COVID Cohort Collaborative (N3C)**<br>
 Emily A. G. Faherty, Kenneth J. Wilkins, Sara Jones, Anup Challa, Qiuyuan Qin, Lauren E. Chan, Courtney Olson-Chen, Jessica L. Tarleton, Michael N. Liebman, Federico Mariona, Elaine L. Hill, Rena C. Patel, and The N3C Consortium<br>
-*Vaccine*, 2024 [Paper📄](https://pubmed.ncbi.nlm.nih.gov/38543923/)
+*Vaccine*, 2024 [Paper 🗐](https://pubmed.ncbi.nlm.nih.gov/38543923/)
 
 **Is the emergency department used as a substitute or a complement to primary care in Medicaid?**<br>
 with Denham A, Raven M, Mendoza M, Raz M, Veazie PJ<br>
-*Health Economics, Policy and Law*, 2023 [Paper📄](https://pubmed.ncbi.nlm.nih.gov/37870129/)
+*Health Economics, Policy and Law*, 2023 [Paper 🗐](https://pubmed.ncbi.nlm.nih.gov/37870129/)
 
 **Who is Pregnant? Defining Real-World Data-Based Pregnancy Episodes in the National COVID Cohort Collaborative (N3C)**<br>
 Jones, Sara, Katie R. Bradwell, Lauren E. Chan, Courtney Olson-Chen, Jessica Tarleton, Kenneth J. Wilkins, Qiuyuan Qin,…, Elaine L. Hill<br>
-*JAMIA Open*, 2024 [Paper📄](https://pubmed.ncbi.nlm.nih.gov/37600074/)
+*JAMIA Open*, 2024 [Paper 🗐](https://pubmed.ncbi.nlm.nih.gov/37600074/)
 
 **The Impact of Oil and Gas Extraction on Infant Health**<br>
-*American Journal of Health Economics*, 2024 [Paper📄](https://www.journals.uchicago.edu/doi/abs/10.1086/724218)<br>
+*American Journal of Health Economics*, 2024 [Paper 🗐](https://www.journals.uchicago.edu/doi/abs/10.1086/724218)<br>
 [NBER WP 30684]
 
 **Changes in Traffic Congestion and Air Pollution Due to Major Roadway Infrastructure Improvements in Texas**<br>
