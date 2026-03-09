@@ -106,198 +106,198 @@ Jones, Sara, Katie R. Bradwell, Lauren E. Chan, Courtney Olson-Chen, Jessica Tar
 
 **Changes in Traffic Congestion and Air Pollution Due to Major Roadway Infrastructure Improvements in Texas**<br>
 with Max Harleman, Lena Harris, Mary D. Willis, Beate Ritz, and Perry Hystad<br>
-*Science of the Total Environment*, 2023
+*Science of the Total Environment*, 2023 <a class="paper-link" href="https://www.sciencedirect.com/science/article/abs/pii/S004896972304086X">Paper <span class="paper-emoji">🗐</span></a>
 
 **Risk Factors Associated with Post-Acute Sequelae of SARS-CoV-2: An N3C and NIH RECOVER Study**<br>
 with Mehta HB, Sharma S, Mane K, Singh SK, Xie C, Cathey E, Loomba J, Russell S, Spratt H, DeWitt PE, Ammar N, Madlock-Brown C, Brown D, McMurry JA, Chute CG, Haendel MA, Moffitt R, Pfaff ER, Bennett TD<br>
-*BMC Public Health*, 2023
+*BMC Public Health*, 2023 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/37880596/">Paper <span class="paper-emoji">🗐</span></a>
 
 **Changes in Socioeconomic Disparities for Traffic-Related Air Pollution Exposure During Pregnancy Over a 20-year Period in Texas**<br>
 with Mary D. Willis, Max Harleman, Collette Ncube, Erin Campbell, Lena Harris, Beate Ritz, and Perry Hystad<br>
-*JAMA Network Open*, 2023
+*JAMA Network Open*, 2023 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/37566419/">Paper <span class="paper-emoji">🗐</span></a>
 
 **Air Quality Impacts of Shale Gas Development in Pennsylvania**<br>
 with Ruohao Zhang, Huan Li, Neha Khanna, Alan Krupnick & Daniel M. Sullivan<br>
-*Journal of the Association of Environmental and Resource Economists*, 2023<br>
+*Journal of the Association of Environmental and Resource Economists*, 2023 <a class="paper-link" href="https://www.journals.uchicago.edu/doi/full/10.1086/721430">Paper <span class="paper-emoji">🗐</span></a><br>
 [Coverage: Environmental Health News; Binghamton University News; WBNG Channnel 12]
 
 **Associations Among Historical Neighborhood Disinvestment, Hazardous Air Pollutants, and Current Adult Asthma Prevalence**<br>
 Erin Campbell, Elaine L. Hill, Kendra Sims, and Mary Willis<br>
-*Environmental Health Perspectives*, 2023
+*Environmental Health Perspectives*, 2023 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/36946585/">Paper <span class="paper-emoji">🗐</span></a>
 
 **Coding Long COVID: Characterizing a New Disease Through an ICD-10 Lens**<br>
 with Emily Pfaff, Charisse Madlock-Brown, John M. Baratta, Abhishek Bhatia, Hannah Davis, Andrew Girvin, Liz Kelly, Kristin Kostka, Johanna Loomba, Julie A. McMurry, Rachel Wong, Tellen D Bennett, Richard Moffitt, Christopher G Chute, Melissa Haendel, The N3C Consortium, The RECOVER Consortium<br>
-*BMC Medicine*, 2023
+*BMC Medicine*, 2023 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/36793086/">Paper <span class="paper-emoji">🗐</span></a>
 
 **Multiple Dimensions of Environmental Justice and Oil and Gas Development in Pennsylvania**<br>
 with Wil Lieberman-Cribbin, Xin Fang, Rachel Morello-Frosch, David J.X. Gonzalez, Nicole Deziel, Jonathan Buonocore, Joan A. Casey<br>
-*Environmental Justice*, 2023
+*Environmental Justice*, 2023 <a class="paper-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10880506/">Paper <span class="paper-emoji">🗐</span></a>
 
 **A Population-Based Cohort Study of Traffic Congestion and Infant Growth Using Connected Vehicle Data**<br>
 with MD Willis, D Schrank, C Xu, L Harris, BR Ritz, P Hystad<br>
-*Science Advances*, 2022
+*Science Advances*, 2022 <a class="paper-link" href="https://www.science.org/doi/10.1126/sciadv.abp8281">Paper <span class="paper-emoji">🗐</span></a>
 
 **Mortality During Resource Booms and Busts**<br>
 with Andrew Boslett<br>
-*Journal of Environmental Economics and Management*, 2022
+*Journal of Environmental Economics and Management*, 2022 <a class="paper-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0095069622000614">Paper <span class="paper-emoji">🗐</span></a>
 
 **Drinking Water, Fracking, and Infant Health**<br>
 with Lala Ma<br>
-*Journal of Health Economics*, 2022
+*Journal of Health Economics*, 2022 <a class="paper-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0167629622000157">Paper <span class="paper-emoji">🗐</span></a>
 
 **Post-Acute Care Use Associated with Medicare Shared Savings Program and Disparities**<br>
 with Y Kim, C Thirukumaran, H Temkin-Greener, R Holloway, Y Li<br>
-*Journal of the American Medical Directors Association*, 2022
+*Journal of the American Medical Directors Association*, 2022 <a class="paper-link" href="https://www.sciencedirect.com/science/article/abs/pii/S1525861022005692">Paper <span class="paper-emoji">🗐</span></a>
 
 **The Geographical Correlation Between Historical Preterm Birth Disparities and COVID-19 Burden**<br>
 with PS Marinescu, C Olson-Chen, JC Glantz, SJ Hollenbach<br>
-*Reproductive Sciences*, 2022
+*Reproductive Sciences*, 2022 <a class="paper-link" href="https://www.ajog.org/article/S0002-9378(20)31489-7/fulltext">Paper <span class="paper-emoji">🗐</span></a>
 
 **Coroner Systems Are Associated with Higher Likelihood of Unclassified Drug Overdoses**<br>
 with Alina Denham, Tarsha Vasu, Paloma Avendano, Andrew Boslett, Michael Mendoza<br>
-*American Journal of Drug and Alcohol Abuse*, 2022
+*American Journal of Drug and Alcohol Abuse*, 2022 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/35667084/">Paper <span class="paper-emoji">🗐</span></a>
 
 **Where You Drink Water: An Assessment of the Tennessee, USA Public Water Supply**<br>
 Ke Jack Ding, George M Hornberger, Elaine L Hill, Yolanda J McDonald<br>
-*Water*, 2022
+*Water*, 2022 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/37476080/">Paper <span class="paper-emoji">🗐</span></a>
 
 **A Systematic Review of Geospatial Representation of United States Community Water Systems**<br>
 Yolanda J. McDonald, Kayla M. Anderson, Mariah D. Caballero, Ke Jack Ding, Douglas H. Fisher, Caroline P. Morkel, Elaine L. Hill<br>
-*AWWA Water Science*, 2022
+*AWWA Water Science*, 2022 <a class="paper-link" href="https://awwa.onlinelibrary.wiley.com/doi/full/10.1002/aws2.1266">Paper <span class="paper-emoji">🗐</span></a>
 
 **Associations Between Residential Proximity to Oil and Gas Extraction and Hypertensive Conditions During Pregnancy: A Difference-in-Differences Analysis in Texas, 1996-2009**<br>
 Mary D Willis, Elaine L Hill, Molly L Kile, Susan Carozza, Perry Hystad<br>
-*International Journal of Epidemiology*, 2021
+*International Journal of Epidemiology*, 2021 <a class="paper-link" href="https://academic.oup.com/ije/article/51/2/525/6460278">Paper <span class="paper-emoji">🗐</span></a>
 
 **The Fracking Concern with Water Quality**<br>
 with Lala Ma<br>
-*Science*, 2021
+*Science*, 2021 <a class="paper-link" href="https://www.science.org/doi/10.1126/science.abk3433">Paper <span class="paper-emoji">🗐</span></a>
 
 **Associations Between Historically Redlined Districts and Racial Disparities in Current Obstetric Outcomes**<br>
 Stefanie J. Hollenbach, Loralei L. Thornburg, J. Christopher Glantz, Elaine Hill<br>
-*JAMA Netw Open*, Oct 2021
+*JAMA Netw Open*, Oct 2021 <a class="paper-link" href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2784593">Paper <span class="paper-emoji">🗐</span></a>
 
 **The Association of Prevention and Promotion Focus with Clinicians' Implementation of The JNC-7 Hypertension Treatment Guidelines**<br>
 Mechelle Sanders, Kevin Fiscella, Elaine Hill, Olugbenga Ogedegbe, Andrea Cassells, Jonathan N. Tobin, Stephen Williams, Peter Veazie<br>
-*The Journal of Clinical Hypertension*, 2021
+*The Journal of Clinical Hypertension*, 2021 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/34374204/">Paper <span class="paper-emoji">🗐</span></a>
 
 **Economic, Environmental, and Health Impacts of the Fracking Boom**<br>
 Katie Black, Andrew Boslett, Elaine Hill, Lala Ma, Shawn McCoy<br>
-*Annual Review of Resource Economics*, 2021
+*Annual Review of Resource Economics*, 2021 <a class="paper-link" href="https://www.annualreviews.org/content/journals/10.1146/annurev-resource-110320-092648">Paper <span class="paper-emoji">🗐</span></a>
 
 **Associations between Residential Proximity to Oil and Gas Drilling and Term Birth Weight and Small-for-Gestational-Age Infants in Texas: A Difference-in-Differences Analysis**<br>
 Mary D. Willis, Elaine L. Hill, Andrew Boslett, Molly L. Kile, Susan E. Carozza, and Perry Hystad<br>
-*Environmental Health Perspectives*, July 2021
+*Environmental Health Perspectives*, July 2021 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/34287013/">Paper <span class="paper-emoji">🗐</span></a>
 
 **Clinical Characterization and Prediction of Clinical Severity of SARS-CoV-2 Infection Among US Adults Using Data From the US National COVID Cohort Collaborative**<br>
 Tellen D. Bennett, Richard A. Moffitt, Janos G. Hajagos, et al.<br>
-*JAMA Netw Open*, July 2021
+*JAMA Netw Open*, July 2021 <a class="paper-link" href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2781923">Paper <span class="paper-emoji">🗐</span></a>
 
 **Institutional Postacute Care Use May Help Reduce Readmissions for Ischemic Stroke Patients**<br>
 Yeunkyung Kim, Caroline Thirukumaran, Helena Temkin-Greener, Elaine Hill, Robert Holloway, Yue Li<br>
-*Medical Care*, 2021
+*Medical Care*, 2021 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/33999571/">Paper <span class="paper-emoji">🗐</span></a>
 
 **Fatal opioid overdoses in the U.S. declined more than reported between 2017 and 2018**<br>
 Andrew Boslett, Alina Denham, Elaine Hill<br>
-*The American Journal of Drug and Alcohol Abuse*, 2021
+*The American Journal of Drug and Alcohol Abuse*, 2021 <a class="paper-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9797028/">Paper <span class="paper-emoji">🗐</span></a>
 
 **Rural Light Pollution from Shale Gas Development and Associated Sleep and Subjective Well-Being**<br>
 Andrew Boslett, Elaine Hill, Lala Ma, Lujia Zhang<br>
-*Resource and Energy Economics*, 2021
+*Resource and Energy Economics*, 2021 <a class="paper-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0928765521000051">Paper <span class="paper-emoji">🗐</span></a>
 
 **Acute Myocardial Infarction Associated with Unconventional Natural Gas Development: Evidence from a Natural Experiment**<br>
 Alina Denham, Mary Willis, Daniel Croft, Linxi Liu, and Elaine Hill<br>
-*Environmental Research*, 2021
+*Environmental Research*, 2021 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/33581094/">Paper <span class="paper-emoji">🗐</span></a>
 
 **Health and Charge Benefits from Decreasing PM2.5 Concentrations in New York State: Effects of Changing Compositions**<br>
 Philip K. Hopke and Elaine L. Hill<br>
-*Atmospheric Pollution Research*, Vol 12, Issue 3, March 2021
+*Atmospheric Pollution Research*, Vol 12, Issue 3, March 2021 <a class="paper-link" href="https://www.sciencedirect.com/science/article/pii/S1309104221000295">Paper <span class="paper-emoji">🗐</span></a>
 
 **The Effect of Medicare Shared Savings Program on Readmissions and Variations by Race/Ethnicity and Payer Status**<br>
 with Yeunkyung Kim, Caroline Thirukumaran, Helena Tempkin-Greener, Bob Holloway, and Yue Li<br>
-*Medical Care*, 2021
+*Medical Care*, 2021 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/33528235/">Paper <span class="paper-emoji">🗐</span></a>
 
 **Natural Gas Development, Flaring, and Pediatric Asthma Hospitalizations in Texas**<br>
 with Mary Willis, Alina Denham, and Perry Hystad<br>
-*International Journal of Epidemiology*, 2020
+*International Journal of Epidemiology*, 2020 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/32879945/">Paper <span class="paper-emoji">🗐</span></a>
 
 **Assessment of Financial Toxicity Among Older Adults with Advanced Cancer**<br>
 with Arastu A, Patel A, Mohile SG, Ciminelli J, Kaushik R, Wells M, Culakova E, Lei L, Xu H, Dougherty DW, Mohamed MR, Duberstein P, Flannery MA, Kamen CS, Pandya C, Berenberg JL, Aarne V, Liu Y, Loh KP<br>
-*JAMA Netw Open*, Dec 2020
+*JAMA Netw Open*, Dec 2020 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/33284337/">Paper <span class="paper-emoji">🗐</span></a>
 
 **Social Distancing Has Merely Stabilized COVID-19 in the US**<br>
 with Aaron Wagner, Sean E. Ryan, Ziteng Sun, Grace Deng, Sourbh Bhadane, Victor Hernandez Martinez, Peter Wu, Dongmei Li, Ajay Anand, Jayadev Acharya, and David S. Matteson<br>
-*Stat*, 2020<br>
+*Stat*, 2020 <a class="paper-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7404665/">Paper <span class="paper-emoji">🗐</span></a><br>
 [Coverage: 13WAHM; University of Rochester; FingerLakes.com; Cornell Chronicle]
 
 **Assessing the Effectiveness of Vehicle Emission Regulations on Improving Perinatal Health: A Population-Based Accountability Study**<br>
 with Mary Willis, Molly Kile, Susan Carozza, and Perry Hystad<br>
-*International Journal of Epidemiology*, 2020
+*International Journal of Epidemiology*, 2020 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/33485273/">Paper <span class="paper-emoji">🗐</span></a>
 
 **Using Contributing Causes of Death Improves Prediction of Opioid Involvement in Unclassified Drug Overdoses in US Death Records**<br>
 with Andy Boslett and Alina Denham<br>
-*Addiction*, 2020<br>
+*Addiction*, 2020 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/32106355/">Paper <span class="paper-emoji">🗐</span></a><br>
 [Coverage: The Atlantic; ABC News; Newsweek; NewScientist; The Washington Post; Scientific American]
 
 **Are Increasing Trends in Opioid-Related Hospitalizations Attributable to Increases in Diagnosis Recordability? Evidence from Two Large States**<br>
 with Alina Denham, Teraisa Mulaney, and Peter Veazie<br>
-*Health Services Insights*, Vol 12, 2019
+*Health Services Insights*, Vol 12, 2019 <a class="paper-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6628518/">Paper <span class="paper-emoji">🗐</span></a>
 
 **Unclassified Drug Overdose Deaths in the Opioid Crisis: Emerging Patterns of Inequity**<br>
 with Meredith Adams, Andy Boslett, and Alina Denham<br>
-*Journal of the American Medical Informatics Association*, 26(8-9), 2019
+*Journal of the American Medical Informatics Association*, 26(8-9), 2019 <a class="paper-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6696491/">Paper <span class="paper-emoji">🗐</span></a>
 
 **Shale Gas Transmission and Housing Prices**<br>
 with Andy Boslett<br>
-*Resource and Energy Economics*, Vol 57, 2019
+*Resource and Energy Economics*, Vol 57, 2019 <a class="paper-link" href="https://www.sciencedirect.com/science/article/abs/pii/S092876551830232X">Paper <span class="paper-emoji">🗐</span></a>
 
 **Reproductive Health Care in Catholic-Owned Hospitals**<br>
 with David Slusky and Donna Ginther<br>
-*Journal of Health Economics*, Vol.65, 2019<br>
+*Journal of Health Economics*, Vol.65, 2019 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/30909108/">Paper <span class="paper-emoji">🗐</span></a><br>
 Also as NBER WP 23768. [Coverage: STAT, Scientific American, Modern Health Care]
 
 **Unconventional Natural Gas Development and Hospitalizations: Evidence from Pennsylvania, 2003-2014**<br>
 with Alina Denham, Mary Willis, and Alexis Zavez<br>
-*Public Health*, Vol. 168, 2019
+*Public Health*, Vol. 168, 2019 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/30677623/">Paper <span class="paper-emoji">🗐</span></a>
 
 **Shale Gas Development and Infant Health: Evidence from Pennsylvania**<br>
-*Journal of Health Economics*, Vol. 61, 2018
+*Journal of Health Economics*, Vol. 61, 2018 <a class="paper-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0167629617304174">Paper <span class="paper-emoji">🗐</span></a>
 
 **Unconventional Natural Gas Development and Pediatric Asthma Hospitalizations in Pennsylvania**<br>
 with Mary D. Willis, Todd A. Jusko, and Jill S. Halterman<br>
-*Environmental Research*, 2018
+*Environmental Research*, 2018 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/29936288/">Paper <span class="paper-emoji">🗐</span></a>
 
 **Psychosocial Implications of Unconventional Natural Gas Development: Quality of Life in Ohio's Guernsey and Noble Counties**<br>
 with Michael P. Fisher, Alex Mayer, Kaitlin Vollet, and Erin N. Haynes<br>
-*Journal of Environmental Psychology*, 2018
+*Journal of Environmental Psychology*, 2018 <a class="paper-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0272494417301858">Paper <span class="paper-emoji">🗐</span></a>
 
 **The Economic and Health Effects of the 2014 Chemical Spill in the Elk River, West Virginia**<br>
 with T. Guilfoos, D. Kell, and A. Boslett<br>
-*American Journal of Agricultural Economics*, 2017
+*American Journal of Agricultural Economics*, 2017 <a class="paper-link" href="https://onlinelibrary.wiley.com/toc/14678276/2018/100/2">Paper <span class="paper-emoji">🗐</span></a>
 
 **Shale Gas Development and Drinking Water Quality**<br>
 with Lala Ma<br>
-*American Economic Review: P&P*, 107(5), 2017
+*American Economic Review*, vol. 107, no. 5, May 2017 <a class="paper-link" href="https://www.aeaweb.org/articles?id=10.1257/aer.p20171133">Paper <span class="paper-emoji">🗐</span></a>
 
 **Labor Migration and Health of Left-Behind Children in China**<br>
 with Lianlian Lei and Feng Liu<br>
-*Journal of Development Studies*, 2017
+*Journal of Development Studies*, 2017 <a class="paper-link" href="https://www.tandfonline.com/doi/abs/10.1080/00220388.2017.1283015">Paper <span class="paper-emoji">🗐</span></a>
 
 **Bundling of Reimbursement for Inferior Vena Cava Filter Placement Resulted in Significantly Decreased Utilization between 2012 and 2014**<br>
 with Roan J. Glocker, Mathew J. TerBush, Joseph J. Guido, Adam Doyle, Jennifer L. Ellis, Gary R. Morrow, Michael C. Stoner<br>
-*Annals of Vascular Surgery*, 2017 Vol 38
+*Annals of Vascular Surgery*, 2017 Vol 38 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/27793623/">Paper <span class="paper-emoji">🗐</span></a>
 
 **Patient Education of Consumer Mediated Health Information Exchange**<br>
 with Carolyn L. Turvey, David M Klein, Matthew Witry, J. Stacey Klutts, Bruce Alexander, and Kim M. Nazi<br>
-*Applied Clinical Informatics*, Vol 7: Issue 3 2016
+*Applied Clinical Informatics*, Vol 7: Issue 3 2016 <a class="paper-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5052548/">Paper <span class="paper-emoji">🗐</span></a>
 
 **The Environmental and Economic Effects of Localizing Food Supply Chains: Dairy in the Northeast US**<br>
 with Xi He, Miguel Gomez, Charles Nicholson and Oliver Gao<br>
-*Environmental Science and Technology*, 2015; 49(20)
+*Environmental Science and Technology*, 2015; 49(20) <a class="paper-link" href="https://pubs.acs.org/doi/10.1021/acs.est.5b02892">Paper <span class="paper-emoji">🗐</span></a>
 
 **School Food Environments and Policies in US Public Schools**<br>
 with Daniel M. Finkelstein and Robert C. Whitaker<br>
-*Pediatrics*, vol. 122, July 2008
+*Pediatrics*, vol. 122, July 2008 <a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/18595970/">Paper <span class="paper-emoji">🗐</span></a>
 
 ### Book Chapters
 **Birth Spacing and Educational Outcomes**<br> 
