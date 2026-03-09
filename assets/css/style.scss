@@ -34,7 +34,7 @@ header a {
   text-align: center !important;
 }
 
-// Center the title
+/* Center the title*/
 .container-lg h1 {
   text-align: center !important;
 }
@@ -131,6 +131,7 @@ section strong {
   margin-bottom: 25px;
 }
 
+/*
 .paper-title {
   font-weight: 600;
   line-height: 1.4;
@@ -155,12 +156,7 @@ section strong {
   margin-top: 3px;
   color: #666;
 }
-/*
-.paper-links a {
-  color: #228B22;
-  text-decoration: none;
-}
-*/
+
 
 .paper-links a {
   color: #0077ff !important;
@@ -171,8 +167,12 @@ section strong {
   background-color: #0077ff;
   color: #0044aa;
 }
+*/
 
-
+.paper-links a:hover {
+  background-color: #0077ff;  /* turns background bright blue on hover — probably not intended */
+  color: #0044aa;
+}
 
 /* ===================================
    CONTENT SPACING
