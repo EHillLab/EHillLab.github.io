@@ -16,7 +16,7 @@
   overflow-wrap: break-word;
   word-spacing: normal;
 ">
- Elaine Hill is Dean's Professor in the Public Health Sciences, and a Professor of Economics and of Obstetrics & Gynecology at the University of Rochester. She is a health and environmental economist and her research focuses on the intersection of health, health policy, the environment, and human capital formation.
+ Elaine Hill is the Dean's Professor in the Public Health Sciences, and a Professor of Economics and of Obstetrics & Gynecology at the University of Rochester. She is a health and environmental economist and her research focuses on the intersection of health, health policy, the environment, and human capital formation.
 </p>
   
 
