@@ -34,7 +34,7 @@ She is also a Research Associate at the National Bureau of Economic Research (NB
 </p>
 
 
-<p class="bio-block" align="left" style="line-height: 1.2; margin-top: 35px;">
+<p class="bio-block" align="left" style="line-height: 1.2; margin-top: 30px;">
 <strong style="font-size: 1.0em;">Contact Information</strong><br>
 University of Rochester School of Medicine and Dentistry<br>
 265 Crittenden Boulevard,<br>
