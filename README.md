@@ -48,12 +48,12 @@ Email: elaine_hill@urmc.rochester.edu<br>
 **[NBER Research Associate](https://www.nber.org/people/elaine_hill?page=1&perPage=50)<br>**
 **[Health and Environmental Economics Lab](https://www.urmc.rochester.edu/labs/hill)<br>**
 **[Google Scholar Citations](https://scholar.google.com/citations?user=0wa_KMgAAAAJ&hl=en)<br>**
-**[Selected Coverage of My Research](news_media.md)**
+**[Selected Press and Media Coverage](news_media.md)**
 
 <div style="clear: both;"></div>
 
 #### Affliated Faculty Member
-**[Institute for Data Science](http://www.rochester.edu/data-science/)** <br>
+**[Goergen Institute for Data Science and Artificial Intelligence](https://www.hajim.rochester.edu/dsc/index.html)** <br>
 **[Environmental Health Sciences Center](https://www.urmc.rochester.edu/environmental-health-sciences)**
 
 ## New (ish) Papers
