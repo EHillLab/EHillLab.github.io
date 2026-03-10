@@ -6,7 +6,7 @@
 <img src="elaine_image1.jpg" alt="Elaine" class="profile-img">
 
 
-<p style="
+<p lang="en" style="
   text-align: justify;
   text-justify: inter-word;
   hyphens: auto;
@@ -20,7 +20,7 @@
 </p>
   
 
-<p style="
+<p lang="en" style="
   text-align: justify;
   text-justify: inter-word;
   hyphens: auto;
