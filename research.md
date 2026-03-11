@@ -9,9 +9,6 @@
 
 ---
 
-## Papers by Year
-
-
 1. **Who Benefits from Hazardous Waste Cleanups? Evidence from the Housing Market**<br>
 with Alecia Cassidy and Lala Ma<br>
 *Accepted at Journal of Political Economy Microeconomics*<br>
