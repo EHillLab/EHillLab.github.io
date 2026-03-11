@@ -5,11 +5,11 @@
 
 # Research
 
-[📚 Papers by Topic](research_by_topics.md) | [🗂 Papers by Year](research.md)
+[🗂 Papers by Year](research.md) [📚 Papers by Topic](research_by_topics.md)
 
 ---
 
-## Papers by Topic
+## Papers by Year
 
 
 1. **Who Benefits from Hazardous Waste Cleanups? Evidence from the Housing Market**<br>
