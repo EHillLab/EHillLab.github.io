@@ -2,9 +2,7 @@
   <a href="/">Home</a> | <a href="/research.html">Research</a> | <a href="/teaching.html">Teaching</a> | <a href="Sudhir_Singh_CV.pdf" target="_blank">CV</a>
 </div>
 
-
-# Research
-
+---
 [🗂 Papers by Year](research.md) | [📚 Papers by Topic](research_by_topics.md)
 
 ---
