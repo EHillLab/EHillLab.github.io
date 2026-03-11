@@ -302,5 +302,5 @@ section p {
 }
 
 .paper-link .paper-emoji {
-  filter: brightness(0.7) sepia(1) saturate(5)  !important;
+  filter: brightness(0.7) sepia(1) saturate(8) hue-rotate(200deg) !important;
 }
