@@ -1,3 +1,5 @@
+
+[🗂 Papers by Year](research.md) [📚 Papers by Topic](research_by_topics.md)
 ## Environment
 
 **Who Benefits from Hazardous Waste Cleanups? Evidence from the Housing Market**<br>
