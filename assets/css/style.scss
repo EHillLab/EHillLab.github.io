@@ -289,7 +289,7 @@ section p {
 
 .paper-link {
   color: #0f65c7 !important;
-  font-weight: 400 !important;
+  font-weight: 450 !important;
   filter: brightness(1.1) !important;
   transition: filter 0.2s ease, color 0.2s ease !important;
   text-decoration: none !important;
@@ -302,5 +302,5 @@ section p {
 }
 
 .paper-link .paper-emoji {
- filter: brightness(0.3) sepia(1) saturate(15) hue-rotate(215deg) !important;
+  filter: brightness(0.5) sepia(1) saturate(12) hue-rotate(195deg) !important;
 }
