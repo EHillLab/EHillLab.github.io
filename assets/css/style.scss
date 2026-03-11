@@ -286,18 +286,22 @@ section p {
 
 
 
+
 .paper-link {
-  color: #00aaff !important;
+  color: #1a8cff !important;
   font-weight: 600 !important;
-  filter: brightness(1.4) !important;
+  filter: brightness(1.2) !important;
   transition: filter 0.2s ease, color 0.2s ease !important;
+  text-decoration: none !important;
 }
 
 .paper-link:hover {
-  color: #33ccff !important;
-  filter: brightness(1.8) !important;
+  color: #4da6ff !important;
+  filter: brightness(1.4) !important;
+  text-decoration: underline !important;
 }
 
 .paper-link .paper-emoji {
-  filter: brightness(1.5) !important;
+  filter: brightness(1.1) sepia(1) saturate(3) hue-rotate(190deg) !important;
 }
+
