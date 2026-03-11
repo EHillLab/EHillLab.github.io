@@ -2,6 +2,16 @@
   <a href="/">Home</a> | <a href="/research.html">Research</a> | <a href="/teaching.html">Teaching</a> | <a href="Sudhir_Singh_CV.pdf" target="_blank">CV</a>
 </div>
 
+
+# Research
+
+[📚 Papers by Topic](research_by_topics.md) | [🗂 Papers by Year](research.md)
+
+---
+
+## Papers by Topic
+
+
 1. **Who Benefits from Hazardous Waste Cleanups? Evidence from the Housing Market**<br>
 with Alecia Cassidy and Lala Ma<br>
 *Accepted at Journal of Political Economy Microeconomics*<br>
