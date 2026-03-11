@@ -284,3 +284,20 @@ section p {
   }
 }
 
+
+
+.paper-link {
+  color: #00aaff !important;
+  font-weight: 600 !important;
+  filter: brightness(1.4) !important;
+  transition: filter 0.2s ease, color 0.2s ease !important;
+}
+
+.paper-link:hover {
+  color: #33ccff !important;
+  filter: brightness(1.8) !important;
+}
+
+.paper-link .paper-emoji {
+  filter: brightness(1.5) !important;
+}
