@@ -3,7 +3,7 @@
 </div>
 
 ---
-[🗂 Papers by Year](research.md) | [📚 Papers by Topic](research_by_topics.md)
+[🗂 Papers by Year](research.md)  |  [📚 Papers by Topic](research_by_topics.md)
 
 ---
 ## Environment
@@ -29,7 +29,7 @@ with Lena Harris, Max Harleman, Mary Willis, and Perry Hystad<br>
 with Max Harleman, Lena Harris, Grace Sventek, Beate Ritz, Erin J. Campbell, Mary Willis, Perry Hystad<br>
 *Environmental Research*, 2024, 118788 [<a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/38555097/">Paper <span class="paper-emoji">📄</span></a>]
 
-+ ** Air Quality Impacts of Shale Gas Development in Pennsylvania**<br>
++ **Air Quality Impacts of Shale Gas Development in Pennsylvania**<br>
 with Ruohao Zhang, Huan Li, Neha Khanna, Alan Krupnick & Daniel M. Sullivan<br>
 *Journal of the Association of Environmental and Resource Economists*, 2023 [<a class="paper-link" href="https://www.journals.uchicago.edu/doi/full/10.1086/721430">Paper <span class="paper-emoji">📄</span></a>]<br>
 [Coverage: Environmental Health News; Binghamton University News; WBNG Channnel 12]
@@ -251,7 +251,7 @@ with Meredith Adams, Andy Boslett, and Alina Denham<br>
 
 
 
-## Healthcare
+## Health Policy and Health Care Systems
 
 + **State Medicaid Spending for Long-Term Services and Supports (LTSS) and the Self-Reported Health of Spousal Caregivers of Community-Dwelling Older Adults with Dementia**<br>
 with Zijing Cheng, Daniel D Maeng, Hochang B Lee, Jennifer M Reckrey, Giselle Routhier, Meiling Ying, Yue Li<br>
@@ -296,9 +296,6 @@ with Roan J. Glocker, Mathew J. TerBush, Joseph J. Guido, Adam Doyle, Jennifer L
 + **Patient Education of Consumer Mediated Health Information Exchange**<br>
 with Carolyn L. Turvey, David M Klein, Matthew Witry, J. Stacey Klutts, Bruce Alexander, and Kim M. Nazi<br>
 *Applied Clinical Informatics*, Vol 7: Issue 3 2016 [<a class="paper-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5052548/">Paper <span class="paper-emoji">📄</span></a>]
-
-
-## COVID-19 Research
 
 + **Evaluating COVID-19 Vaccine Effectiveness During Pre-Delta, Delta and Omicron Dominant Periods Among Pregnant People in the U.S.: Retrospective Cohort Analysis from a Nationally Sampled Cohort in National COVID Collaborative Cohort (N3C)**<br>
 Qiuyuan Qin, Kenneth Wilkin, Sara E Jones, Katie Rebecca Bradwell, Lauren Chan, Jing Sun, Jerrod Anzalone, Qulu Zheng, Michael Liebman, Federico Mariona, Emily A Groene Faherty, Anup P Challa, Elaine Hill, Rena C Patel, on behalf of the N3C consortium<br>
