@@ -1,5 +1,5 @@
 <div class="simple-nav">
-  <a href="/">Home</a> | <a href="/research.html">Research</a> | <a href="/teaching.html">Teaching</a> | <a href="Sudhir_Singh_CV.pdf" target="_blank">CV</a>
+  <a href="/">Home</a> | <a href="/research.html">Research</a> | <a href="/teaching.html">Teaching</a> | <a href="Elaine_L_Hill_CV.pdf" target="_blank">CV</a>
 </div>
 
 
@@ -7,6 +7,14 @@
 [🗂 Papers by Year](research.md)  |  [📚 Papers by Topic](research_by_topics.md)
 
 ---
+
+### Working Papers
+
+1. 🆕 **Pandemic Policies and Health Outcomes: Evidence from Medicare and Medicaid Claims Data**<br>
+with Konstantin Kunze, Meredith Adams, Daniel Guth, Grace Sventek<br>
+[[Working Paper](https://www.konstantin-kunze.com/files/kunze_covid_policy.pdf)]<br>
+
+### Published Papers
 
 1. **Who Benefits from Hazardous Waste Cleanups? Evidence from the Housing Market**<br>
 with Alecia Cassidy and Lala Ma<br>
