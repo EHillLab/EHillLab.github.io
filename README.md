@@ -56,16 +56,6 @@ Email: elaine_hill@urmc.rochester.edu<br>
 **[Goergen Institute for Data Science and Artificial Intelligence](https://www.hajim.rochester.edu/dsc/index.html)** <br>
 **[Environmental Health Sciences Center](https://www.urmc.rochester.edu/environmental-health-sciences)**
 
-## New (ish) Papers
-
-🆕 **Who Benefits from Hazardous Waste Cleanups? Evidence from the Housing Market**<br>
-with Alecia Cassidy and Lala Ma<br>
-*Accepted at Journal of Political Economy Microeconomics*<br>
-[[NBER WP 30661](https://www.nber.org/papers/w30661)] [[Coverage: NBER Bulletin on Environment and Energy](https://www.nber.org/reporter/2023number4/program-report-environment-and-energy-economics)]
-
-🆕 **Pandemic Policies and Health Outcomes: Evidence from Medicare and Medicaid Claims Data**<br>
-with Konstantin Kunze, Meredith Adams, Daniel Guth, Grace Sventek<br>
-[[Working Paper](https://www.konstantin-kunze.com/files/kunze_covid_policy.pdf)]<br>
 
 
 <div class="site-footer">
