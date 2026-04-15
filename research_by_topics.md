@@ -1,7 +1,6 @@
 <div class="simple-nav">
-  <a href="/">Home</a> | <a href="/research.html">Research</a> | <a href="/teaching.html">Teaching</a> | <a href="Elaine_L_Hill_CV.pdf" target="_blank">CV</a>
+  <a href="/">Home</a> | <a href="/research.html">Research</a> | <a href="/teaching.html">Teaching</a> | <a href="Elaine_L_Hill_CV.pdf">CV</a>
 </div>
-
 
 ---
 [🗂 Papers by Year](research.md)  |  [📚 Papers by Topic](research_by_topics.md)
