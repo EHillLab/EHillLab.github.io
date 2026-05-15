@@ -30,7 +30,7 @@
   overflow-wrap: break-word;
   word-spacing: normal;
 ">
-She is also a Research Associate at the National Bureau of Economic Research (NBER), a faculty member in the Goergen Institute for Data Science and Artificial Intelligence at the University of Rochester, and holds a courtesy appointment at Oregon State University. She holds a BA in Economics and Mathematics from Oberlin College and a PhD from Cornell University. To learn more, please see her <a href="Elaine_L_Hill_CV.pdf">CV</a> and <a href="/research.html">research page</a>.
+She is also a Research Associate at the National Bureau of Economic Research (NBER), a faculty member in the Goergen Institute for Data Science and Artificial Intelligence at the University of Rochester, and holds a courtesy appointment at Oregon State University. She holds a BA in Economics and Mathematics from Oberlin College and a PhD from Cornell University. To learn more, please see her <a href="Elaine_L_Hill_CV.pdf">CV</a> and  <a href="/research.html">research page</a>.
 </p>
 
 
