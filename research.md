@@ -21,6 +21,7 @@ with Alecia Cassidy and Lala Ma<br>
 *Accepted at Journal of Political Economy Microeconomics*<br>
 [[NBER WP 30661](https://www.nber.org/papers/w30661)] [[Coverage: NBER Bulletin on Environment and Energy](https://www.nber.org/reporter/2023number4/program-report-environment-and-energy-economics)]
 
+&nbsp;
 1. **State Medicaid Spending for Long-Term Services and Supports (LTSS) and the Self-Reported Health of Spousal Caregivers of Community-Dwelling Older Adults with Dementia**<br>
 with Zijing Cheng, Daniel D Maeng, Hochang B Lee, Jennifer M Reckrey, Giselle Routhier, Meiling Ying, Yue Li<br>
 *Aging and Health Research*, Jan 2026 [<a class="paper-link" href="https://www.sciencedirect.com/science/article/pii/S2667032126000016">Paper <span class="paper-emoji">📄</span></a>]
