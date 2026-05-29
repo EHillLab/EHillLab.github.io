@@ -6,7 +6,7 @@
 [🗂 Papers by Year](research.md)  |  [📚 Papers by Topic](research_by_topics.md)
 
 ---
-## Environment
+### Environment
 
 + **Who Benefits from Hazardous Waste Cleanups? Evidence from the Housing Market**<br>
 with Alecia Cassidy and Lala Ma<br>
@@ -130,7 +130,7 @@ with Xi He, Miguel Gomez, Charles Nicholson and Oliver Gao<br>
 *Environmental Science and Technology*, 2015; 49(20) [<a class="paper-link" href="https://pubs.acs.org/doi/10.1021/acs.est.5b02892">Paper <span class="paper-emoji">📄</span></a>]
 
 
-## Maternal & Child Health
+### Maternal & Child Health
 
 + **The Impact of Increased Medicaid Eligibility During Pregnancy on Medicaid Utilization and Gestational Age**<br>
 Nicolas P. Goldstein Novick, Peter J. Veazie, Elaine L. Hill, Eva K. Pressman, Peter G. Szilagyi, Timothy D. Nelin, Scott A. Lorch<br>
@@ -209,7 +209,7 @@ with David Slusky<br>
 with Daniel M. Finkelstein and Robert C. Whitaker<br>
 *Pediatrics*, vol. 122, July 2008 [<a class="paper-link" href="https://pubmed.ncbi.nlm.nih.gov/18595970/">Paper <span class="paper-emoji">📄</span></a>]
 
-## Opioid Crisis & Substance Use Disorder
+### Opioid Crisis & Substance Use Disorder
 
 + **Evidence-Based Framework for Identifying Opioid Use Disorder in Administrative Data: A Systematic Review and Methodological Development Study**<br>
 Robert W. Hurley, Khadijah T. Bland, Mira D. Chaskes, Daniel Guth, Elaine L. Hill, Meredith CB Adams<br>
@@ -251,7 +251,7 @@ with Meredith Adams, Andy Boslett, and Alina Denham<br>
 
 
 
-## Health Policy and Health Care Systems
+### Health Policy and Health Care Systems
 
 + **State Medicaid Spending for Long-Term Services and Supports (LTSS) and the Self-Reported Health of Spousal Caregivers of Community-Dwelling Older Adults with Dementia**<br>
 with Zijing Cheng, Daniel D Maeng, Hochang B Lee, Jennifer M Reckrey, Giselle Routhier, Meiling Ying, Yue Li<br>
