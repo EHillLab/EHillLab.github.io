@@ -221,7 +221,7 @@
     <div class="paper-body">
       <a href="https://www.journals.uchicago.edu/doi/full/10.1086/721430">Air Quality Impacts of Shale Gas Development in Pennsylvania</a>
       <div class="paper-coauthors">with Ruohao Zhang, Huan Li, Neha Khanna, Alan Krupnick &amp; Daniel M. Sullivan</div>
-      <div class="paper-journal"><em>Journal of the Association of Environmental and Resource Economists</em>, 2023<br>[Coverage: Environmental Health News; Binghamton University News; WBNG Channnel 12]</div>
+      <div class="paper-journal"><em>Journal of the Association of Environmental and Resource Economists</em>, 2023<br>[Coverage: <a href="https://www.ehn.org/fracking-pennsylvania-deaths">Environmental Health News</a>;         <a href="https://www.binghamton.edu/news/story/2496/study-air-pollution-from-fracking-linked-to-deaths-in-pennsylvania">Binghamton University News</a>; WBNG Channnel 12]</div>
     </div>
   </li>
   <li>
