@@ -163,9 +163,9 @@ with Lala Ma<br>
 with Y Kim, C Thirukumaran, H Temkin-Greener, R Holloway, Y Li<br>
 *Journal of the American Medical Directors Association*, 2022 [<a class="paper-link" href="https://www.sciencedirect.com/science/article/abs/pii/S1525861022005692">Paper <span class="paper-emoji">📄</span></a>]
 
-1. [The Geographical Correlation Between Historical Preterm Birth Disparities and COVID-19 Burden](https://www.ajog.org/article/S0002-9378(20)<br>
+1. [The Geographical Correlation Between Historical Preterm Birth Disparities and COVID-19 Burden](https://link.springer.com/article/10.1007/s43032-022-01076-w)<br>
 with PS Marinescu, C Olson-Chen, JC Glantz, SJ Hollenbach<br>
-*Reproductive Sciences*, 2022 [<a class="paper-link" href="https://www.ajog.org/article/S0002-9378(20)31489-7/fulltext">Paper <span class="paper-emoji">📄</span></a>]
+*Reproductive Sciences*, 2022 [<a class="paper-link" href="https://link.springer.com/article/10.1007/s43032-022-01076-w">Paper <span class="paper-emoji">📄</span></a>]
 
 1. [Coroner Systems Are Associated with Higher Likelihood of Unclassified Drug Overdoses](https://pubmed.ncbi.nlm.nih.gov/35667084/)<br>
 with Alina Denham, Tarsha Vasu, Paloma Avendano, Andrew Boslett, Michael Mendoza<br>
