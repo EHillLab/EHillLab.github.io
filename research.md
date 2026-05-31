@@ -7,6 +7,7 @@
 [🗂 Papers by Year](research.md)  |  [📚 Papers by Topic](research_by_topics.md)
 
 ---
+
 ### Working Papers
 
 <ol class="papers" style="--start: 0;">
@@ -544,9 +545,7 @@
   </li>
 </ol>
 
-
-
-
 <div class="site-footer">
   <p>© 2026 Elaine L. Hill | elaine_hill@urmc.rochester.edu</p>
 </div>
+
