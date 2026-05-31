@@ -200,7 +200,7 @@ with Alina Denham, Mary Willis, and Alexis Zavez<br>
 + [Shale Gas Development and Infant Health: Evidence from Pennsylvania](https://www.sciencedirect.com/science/article/abs/pii/S0167629617304174)<br>
 *Journal of Health Economics*, Vol. 61, 2018 [<a class="paper-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0167629617304174">Paper <span class="paper-emoji">📄</span></a>]
 
-+ Birth Spacing and Educational Outcomes (Book Chapter)<br>
++ [Birth Spacing and Educational Outcomes](https://www.emerald.com/books/edited-volume/12881/chapter-abstract/83253544/Birth-Spacing-and-Educational-Outcomes?redirectedFrom=fulltext)<br>
 with David Slusky<br>
 *Advances in Health Economics and Health Services Research*, In Human Capital and Health Behavior, pp. 3-29. Emerald Publishing Limited, 2017
 
