@@ -420,11 +420,11 @@
       <div class="paper-journal"><em>International Journal of Epidemiology</em>, 2020</div>
     </div>
   </li>
-  <li>
+<li>
     <div class="paper-body">
       <a href="https://pubmed.ncbi.nlm.nih.gov/32106355/">Using Contributing Causes of Death Improves Prediction of Opioid Involvement in Unclassified Drug Overdoses in US Death Records</a>
       <div class="paper-coauthors">with Andy Boslett and Alina Denham</div>
-      <div class="paper-journal"><em>Addiction</em>, 2020<br>[Coverage: The Atlantic; ABC News; Newsweek; NewScientist; The Washington Post; Scientific American]</div>
+      <div class="paper-journal"><em>Addiction</em>, 2020<br>[Coverage: <a href="https://www.theatlantic.com/health/archive/2020/02/more-people-have-died-opioids-us-thought/607165/">The Atlantic</a>; <a href="https://abcnews.go.com/Health/opioid-crisis-worse-thought-making-epidemic-harder-fight/story?id=69208304">ABC News</a>; <a href="https://www.newsweek.com/opioid-related-deaths-u-s-higher-previously-thought-study-1489523">Newsweek</a>; <a href="https://www.newscientist.com/article/2235606-us-opioid-crisis-100000-overdose-deaths-may-have-gone-uncounted/">NewScientist</a>; <a href="https://www.washingtonpost.com/health/2020/02/28/opioid-deaths/">The Washington Post</a>; <a href="https://www.scientificamerican.com/article/fatal-opioid-overdoses-may-be-more-common-than-thought/">Scientific American</a>]</div>
     </div>
   </li>
   <li>
