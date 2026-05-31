@@ -535,10 +535,10 @@
 
 ### Book Chapters
 
-<ol class="papers" style="--start: 1;">
+<ol class="papers" style="--start: 0;">
   <li>
     <div class="paper-body">
-      Birth Spacing and Educational Outcomes
+      <a href="https://www.emerald.com/books/edited-volume/12881/chapter-abstract/83253544/Birth-Spacing-and-Educational-Outcomes?redirectedFrom=fulltext">Birth Spacing and Educational Outcomes</a>
       <div class="paper-coauthors">with David Slusky</div>
       <div class="paper-journal"><em>Advances in Health Economics and Health Services Research</em>, In Human Capital and Health Behavior, pp. 3-29. Emerald Publishing Limited, 2017</div>
     </div>
