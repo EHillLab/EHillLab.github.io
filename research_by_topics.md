@@ -340,3 +340,6 @@ with Aaron Wagner, Sean E. Ryan, Ziteng Sun, Grace Deng, Sourbh Bhadane, Victor 
 
 
 
+<div class="site-footer">
+  <p>© 2026 Elaine L. Hill | elaine_hill@urmc.rochester.edu</p>
+</div>
