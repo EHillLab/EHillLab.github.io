@@ -9,7 +9,7 @@
 ---
 ### Working Papers
 
-<ol class="papers" style="--start: 1;">
+<ol class="papers" style="--start: 0;">
   <li>
     <div class="paper-body">
       🆕 <a href="https://www.konstantin-kunze.com/files/kunze_covid_policy.pdf">Pandemic Policies and Health Outcomes: Evidence from Medicare and Medicaid Claims Data</a>
@@ -20,7 +20,7 @@
 
 ### Published Papers
 
-<ol class="papers" style="--start: 1;">
+<ol class="papers" style="--start: 0;">
   <li>
     <div class="paper-body">
       <a href="https://www.nber.org/papers/w30661">Who Benefits from Hazardous Waste Cleanups? Evidence from the Housing Market</a>
