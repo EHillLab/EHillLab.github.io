@@ -160,9 +160,9 @@ with MD Willis, D Schrank, C Xu, L Harris, BR Ritz, P Hystad<br>
 with Andrew Boslett<br>
 *Journal of Environmental Economics and Management*, 2022 [<a class="paper-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0095069622000614">Paper <span class="paper-emoji">📄</span></a>]
 
-+ [The Geographical Correlation Between Historical Preterm Birth Disparities and COVID-19 Burden](https://www.ajog.org/article/S0002-9378(20)<br>
++ [The Geographical Correlation Between Historical Preterm Birth Disparities and COVID-19 Burden](https://link.springer.com/article/10.1007/s43032-022-01076-w)<br>
 with PS Marinescu, C Olson-Chen, JC Glantz, SJ Hollenbach<br>
-*Reproductive Sciences*, 2022 [<a class="paper-link" href="https://www.ajog.org/article/S0002-9378(20)31489-7/fulltext">Paper <span class="paper-emoji">📄</span></a>]
+*Reproductive Sciences*, 2022 [<a class="paper-link" href="https://link.springer.com/article/10.1007/s43032-022-01076-w">Paper <span class="paper-emoji">📄</span></a>]
 
 + [Associations Between Historically Redlined Districts and Racial Disparities in Current Obstetric Outcomes](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2784593)<br>
 Stefanie J. Hollenbach, Loralei L. Thornburg, J. Christopher Glantz, Elaine Hill<br>
