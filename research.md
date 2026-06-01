@@ -418,6 +418,7 @@
       <a href="https://www.facebook.com/fingerlakes1/posts/has-social-distancing-worked-that-is-the-major-question-at-the-center-of-a-local/10156981976101389/" target="_blank">FingerLakes.com</a>;
       <a href="https://news.cornell.edu/stories/2020/05/us-social-distancing-stabilized-did-not-reduce-spread" target="_blank">Cornell Chronicle</a>]
 </div>
+</div>
   </li>
   <li>
     <div class="paper-body">
