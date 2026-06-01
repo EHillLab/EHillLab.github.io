@@ -470,9 +470,9 @@
     </div>
   </li>
   <li>
-    <div class="paper-body">
+<div class="paper-body">
       <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167629617304174">Shale Gas Development and Infant Health: Evidence from Pennsylvania</a>
-      <div class="paper-journal"><em>Journal of Health Economics</em>, Vol. 61, 2018</div>
+      <div class="paper-journal"><em>Journal of Health Economics</em>, Vol. 61, 2018<br>[Coverage: <a href="https://dotearth.blogs.nytimes.com/2012/07/25/when-publicity-precedes-peer-review-in-fight-over-gas-impacts/">The New York Times</a>; <a href="https://www.scientificamerican.com/article/drilling-for-certainty-the-latest-in-fracking-health-studies/">Scientific American</a>; <a href="https://www.theepochtimes.com/link-between-low-birth-weight-and-fracking-says-new-research_1483443.html">The Epoch Times</a>; <a href="https://www.sciencedaily.com/releases/2022/04/220411113736.htm">ScienceDaily</a>; <a href="https://www.eurekalert.org/news-releases/950325">EurekAlert</a>; <a href="https://www.mnn.com/family/babies-pregnancy/blogs/link-found-between-fracking-and-low-birth-weight">Mother Nature Network</a>; <a href="https://www.syracuse.com/news/2014/03/fracking_health_effects_study.html">Syracuse.com</a>; <a href="https://everythingbirthblog.com/2012/07/24/fracking-and-low-birth-weight-linked/">Everything Birth Blog</a>]</div>
     </div>
   </li>
   <li>
