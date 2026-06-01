@@ -410,8 +410,14 @@
     <div class="paper-body">
       <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7404665/">Social Distancing Has Merely Stabilized COVID-19 in the US</a>
       <div class="paper-coauthors">with Aaron Wagner, Sean E. Ryan, Ziteng Sun, Grace Deng, Sourbh Bhadane, Victor Hernandez Martinez, Peter Wu, Dongmei Li, Ajay Anand, Jayadev Acharya, and David S. Matteson</div>
-      <div class="paper-journal"><em>Stat</em>, 2020<br>[Coverage: 13WAHM; University of Rochester; FingerLakes.com; Cornell Chronicle]</div>
-    </div>
+      <div class="paper-journal">
+      <em>Stat</em>, 2020<br>
+      [Coverage:
+      <a href="https://13wham.com/news/local/u-of-r-cornell-study-social-distancing-stabilizes-but-does-not-reverse-covid-19-spread" target="_blank">13WHAM</a>;
+      <a href="https://www.rochester.edu/newscenter/social-distancing-doubling-rate-stabilized-but-failed-to-reverse-the-spread-of-covid19-432562/" target="_blank">University of Rochester</a>;
+      <a href="https://www.facebook.com/fingerlakes1/posts/has-social-distancing-worked-that-is-the-major-question-at-the-center-of-a-local/10156981976101389/" target="_blank">FingerLakes.com</a>;
+      <a href="https://news.cornell.edu/stories/2020/05/us-social-distancing-stabilized-did-not-reduce-spread" target="_blank">Cornell Chronicle</a>]
+</div>
   </li>
   <li>
     <div class="paper-body">
