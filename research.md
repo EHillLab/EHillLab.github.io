@@ -178,7 +178,7 @@
   </li>
   <li>
     <div class="paper-body">
-      <a href="https://pubmed.ncbi.nlm.nih.gov/37870129/">Is the emergency department used as a substitute or a complement to primary care in Medicaid?</a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/37870129/">Is the Emergency Department a Substitute for or a Complement to Primary Care in Medicaid?</a>
       <div class="paper-coauthors">with Denham A, Raven M, Mendoza M, Raz M, Veazie PJ</div>
       <div class="paper-journal"><em>Health Economics, Policy and Law</em>, 2023</div>
     </div>
@@ -359,7 +359,7 @@
   </li>
   <li>
     <div class="paper-body">
-      <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9797028/">Fatal opioid overdoses in the U.S. declined more than reported between 2017 and 2018</a>
+      <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9797028/">Fatal Opioid Overdoses in the U.S. Declined More Than Reported Between 2017 and 2018</a>
       <div class="paper-coauthors">Andrew Boslett, Alina Denham, Elaine Hill</div>
       <div class="paper-journal"><em>The American Journal of Drug and Alcohol Abuse</em>, 2021</div>
     </div>
