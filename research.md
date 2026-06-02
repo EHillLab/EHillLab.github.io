@@ -37,6 +37,14 @@
   <div class="paper-journal"><em>PLOS ONE</em>, 2026</div>
 </div>
   </li>
+
+    <li>
+    <div class="paper-body">
+      <a href="https://www.sciencedirect.com/science/article/pii/S2667032126000016">State Medicaid Spending for Long-Term Services and Supports and the Self-Reported Health of Spousal Caregivers of Community-Dwelling Older Adults with Dementia</a>
+      <div class="paper-coauthors">with Zijing Cheng, Daniel D Maeng, Hochang B Lee, Jennifer M Reckrey, Giselle Routhier, Meiling Ying, Yue Li</div>
+      <div class="paper-journal"><em>Aging and Health Research</em>, Jan 2026</div>
+    </div>
+  </li>
   
  <li>
 <div class="paper-body">
@@ -46,13 +54,7 @@
 </div>
  </li>
    
-  <li>
-    <div class="paper-body">
-      <a href="https://www.sciencedirect.com/science/article/pii/S2667032126000016">State Medicaid Spending for Long-Term Services and Supports (LTSS) and the Self-Reported Health of Spousal Caregivers of Community-Dwelling Older Adults with Dementia</a>
-      <div class="paper-coauthors">with Zijing Cheng, Daniel D Maeng, Hochang B Lee, Jennifer M Reckrey, Giselle Routhier, Meiling Ying, Yue Li</div>
-      <div class="paper-journal"><em>Aging and Health Research</em>, Jan 2026</div>
-    </div>
-  </li>
+
   <li>
     <div class="paper-body">
       <a href="https://www.sciencedirect.com/science/article/abs/pii/S0928765525000399">Negotiations of Oil and Gas Auxiliary Lease Clauses: Evidence from Pennsylvania's Marcellus Shale</a>
