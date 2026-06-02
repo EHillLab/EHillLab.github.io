@@ -358,6 +358,16 @@
 ### Opioid Crisis & Substance Use Disorder
 
 <ul class="papers">
+
+   <li>
+  <div class="paper-body">
+  <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347943">Criterion Validity and Divergent Risk Profiles of Long-Term     Opioid Therapy Across Medicare and Medicaid</a>
+  <div class="paper-coauthors">with Robert W. Hurley, Daniel Guth, and Meredith C.B. Adams</div>
+  <div class="paper-journal"><em>PLOS ONE</em>, 2026<br>
+</div>
+  </li>
+  
+
   <li>
     <div class="paper-body">
       <a href="https://academic.oup.com/painmedicine/article/27/2/145/8240851">Evidence-Based Framework for Identifying Opioid Use Disorder in Administrative Data: A Systematic Review and Methodological Development Study</a>
@@ -433,6 +443,15 @@
       <div class="paper-journal"><em>Aging and Health Research</em>, Jan 2026</div>
     </div>
   </li>
+  
+   <li>
+<div class="paper-body">
+  <a href="https://acrjournals.onlinelibrary.wiley.com/doi/abs/10.1002/acr.80063">Association of Vaccination with COVID Outcomes in Pregnant People with Autoimmune Diseases: A Retrospective National Cohort Analysis</a>
+  <div class="paper-coauthors">with Sohrab Jaferian, Kenneth Wilkins, Qiuyuan Qin, A. Jerrod Anzalone, Margaret L. Lind, Anna Sutton, Rena C. Patel, Namrata Singh, and the National Clinical Cohort Collaborative (N3C)</div>
+  <div class="paper-journal"><em>Arthritis Care &amp; Research</em>, 2026<br>
+</div>
+ </li>
+  
   <li>
     <div class="paper-body">
       <a href="https://www.sciencedirect.com/science/article/abs/pii/S1525861025002087">Has Increased Medicaid Spending on Home- and Community-Based Services Reduced Unmet Needs in Activities of Daily Living Care among Community-Dwelling Older Adults with Dementia? Evidence from 2008 to 2020</a>
