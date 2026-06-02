@@ -34,7 +34,7 @@
   <div class="paper-body">
   <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347943">Criterion Validity and Divergent Risk Profiles of Long-Term     Opioid Therapy Across Medicare and Medicaid</a>
   <div class="paper-coauthors">with Robert W. Hurley, Daniel Guth, and Meredith C.B. Adams</div>
-  <div class="paper-journal"><em>PLOS ONE</em>, 2026<br>
+  <div class="paper-journal"><em>PLOS ONE</em>, 2026</div>
 </div>
   </li>
   
@@ -42,7 +42,7 @@
 <div class="paper-body">
   <a href="https://acrjournals.onlinelibrary.wiley.com/doi/abs/10.1002/acr.80063">Association of Vaccination with COVID Outcomes in Pregnant People with Autoimmune Diseases: A Retrospective National Cohort Analysis</a>
   <div class="paper-coauthors">with Sohrab Jaferian, Kenneth Wilkins, Qiuyuan Qin, A. Jerrod Anzalone, Margaret L. Lind, Anna Sutton, Rena C. Patel, Namrata Singh, and the National Clinical Cohort Collaborative (N3C)</div>
-  <div class="paper-journal"><em>Arthritis Care &amp; Research</em>, 2026<br>
+  <div class="paper-journal"><em>Arthritis Care &amp; Research</em>, 2026</div>
 </div>
  </li>
    
