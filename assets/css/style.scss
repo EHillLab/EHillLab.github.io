@@ -184,4 +184,212 @@ section strong {
   text-decoration: none;
   cursor: pointer;
   padding: 3px 10px;
-  backg
+  background: transparent;
+  border-radius: 4px;
+  border: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.paper-links a:hover, .abstract-toggle:hover {
+  background: #cce0f5;
+  color: #003d6b !important;
+  text-decoration: none !important;
+}
+
+.sep {
+  color: #999;
+  font-size: 13px;
+}
+
+.toggle-icon {
+  display: inline-block;
+  transition: transform 0.2s;
+  font-style: normal;
+  font-size: 10px;
+}
+
+.toggle-icon.open {
+  transform: rotate(90deg);
+}
+
+/* ===================================
+   ABSTRACT BOX
+   =================================== */
+.abstract-box {
+  display: none;
+  margin-top: 0.7rem;
+  padding: 0.9rem 1rem;
+  /* border-left: 2px solid #005595; */
+  border-left: 2px solid #01256E;
+  font-size: 0.91rem;
+  line-height: 1.65;
+  color: #4a4a44;
+}
+
+.rar-badge {
+  font-family: monospace;
+  font-size: 0.65rem;
+  letter-spacing: 0.08em;
+  color: #8a8a80;
+  border: 1px solid #d8d8cc;
+  padding: 0.1em 0.4em;
+  border-radius: 2px;
+  margin-left: 0.3em;
+}
+
+/* ===================================
+   PAPER LISTS (ordered + unordered)
+   =================================== */
+ol.papers {
+  list-style: none !important;
+  counter-reset: paper-counter var(--start, 0) !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+ol.papers li {
+  counter-increment: paper-counter !important;
+  display: grid !important;
+  grid-template-columns: 2rem 1fr !important;
+  gap: 0 0.50rem !important;
+  margin-bottom: 1.4rem !important;
+  align-items: start !important;
+}
+
+ol.papers li::before {
+  content: counter(paper-counter) "." !important;
+  font-family: monospace !important;
+  font-size: 0.80rem !important;
+  color: #8a8a80 !important;
+  padding-top: 0.2rem !important;
+  text-align: right !important;
+}
+
+ul.papers {
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+ul.papers li {
+  display: grid !important;
+  grid-template-columns: 2rem 1fr !important;
+  gap: 0 0.50rem !important;
+  margin-bottom: 1.4rem !important;
+  align-items: start !important;
+}
+
+ul.papers li::before {
+  content: "○";
+   font-family: monospace !important;
+  font-size: 0.80rem !important;
+  color: #8a8a80 !important;
+  padding-top: 0.2rem !important;
+  text-align: right !important;
+}
+
+/* ===================================
+   CONTENT SPACING
+   =================================== */
+section h2:first-of-type {
+  margin-top: 30px;
+}
+
+section h2 {
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+section p {
+  margin-bottom: 18px;
+}
+
+/* ===================================
+   FOOTER
+   =================================== */
+.site-footer {
+  margin-top: 60px;
+  padding-top: 30px;
+  border-top: 1px solid #e5e5e5;
+  text-align: center;
+  color: #999;
+  font-size: 14px;
+}
+
+.site-footer p {
+  margin: 10px 0;
+}
+
+/* ===================================
+   DESKTOP LAYOUT (720px and above)
+   =================================== */
+@media print, screen and (min-width: 720px) {
+  .wrapper {
+    width: 100% !important;
+    text-align: center !important;
+    display: block !important;
+  }
+
+  header {
+    float: none !important;
+    position: static !important;
+    text-align: center !important;
+    width: 100% !important;
+    padding: 40px 0 15px 0 !important;
+    border-bottom: none !important;
+  }
+
+  header h1 {
+    font-size: 42px !important;
+    text-align: center !important;
+    margin-bottom: 8px !important;
+  }
+
+  header p {
+    font-size: 18px !important;
+    text-align: center !important;
+    color: #666 !important;
+    margin-bottom: 0 !important;
+  }
+
+  section {
+    float: none !important;
+    width: 90% !important;
+    text-align: center !important;
+    max-width: 900px !important;
+    margin: 0 auto !important;
+    padding-top: 0 !important;
+  }
+}
+
+/* ===================================
+   MOBILE LAYOUT (below 768px)
+   =================================== */
+@media (max-width: 768px) {
+  header {
+    text-align: center !important;
+  }
+
+  header h1 {
+    text-align: center !important;
+    font-size: 32px !important;
+  }
+
+  header p {
+    text-align: center !important;
+  }
+
+  .profile-img {
+    float: none !important;
+    display: block;
+    margin: 0 auto 15px auto !important;
+    width: 85%;
+    max-width: 180px;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
