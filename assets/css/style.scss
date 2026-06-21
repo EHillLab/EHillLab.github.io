@@ -94,10 +94,13 @@ a:hover {
   text-decoration: underline;
 }
 
+
+
 /* Override for paper status (journals) - keep them gray */
 .paper-status {
   color: #666 !important;
-  font-style: italic;
+  /* font-style: italic; */
+  font-weight: bold;
   font-size: 15px;
   margin-top: 2px;
 }
