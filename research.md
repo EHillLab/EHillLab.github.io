@@ -17,11 +17,11 @@
       <div class="paper-coauthors">with Konstantin Kunze, Meredith Adams, Daniel Guth, Grace Sventek</div>
     </div>
   </li>
-</0l> 
+</ol> 
   
 ### Published Papers
 
- <ol class="papers" style="--start: 0;"> 
+ <ol class="papers" style="--start: 2;"> 
   <li>
     <div class="paper-body">
       <a href="https://www.nber.org/papers/w30661">Who Benefits from Hazardous Waste Cleanups? Evidence from the Housing Market</a>
