@@ -276,18 +276,18 @@ ul.papers {
 ul.papers li {
   display: grid !important;
   grid-template-columns: 2rem 1fr !important;
-  gap: 0 0.50rem !important;
+  gap: 0 0.60rem !important;
   margin-bottom: 1.4rem !important;
   align-items: start !important;
 }
 
-/*content: "»"; */
+
 ul.papers li::before {
-  content: "";
+   content: "";   /* invisible bullet */
   font-family: monospace !important;
   font-size: 0.80rem !important;
   color: #8a8a80 !important;
-  padding-top: 0.2rem !important;
+  padding-top: 0.1rem !important;
   text-align: right !important;
 }
 
