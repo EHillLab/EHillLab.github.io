@@ -561,7 +561,7 @@
 
 ### Book Chapters
 
-<ul class="papers" style="--start: 76;">
+<ol class="papers" style="--start: 76;">
   <li>
     <div class="paper-body">
       <a href="https://www.emerald.com/books/edited-volume/12881/chapter-abstract/83253544/Birth-Spacing-and-Educational-Outcomes?redirectedFrom=fulltext">Birth Spacing and Educational Outcomes</a>
@@ -569,7 +569,7 @@
       <div class="paper-journal"><em>Advances in Health Economics and Health Services Research</em>, In Human Capital and Health Behavior, pp. 3-29. Emerald Publishing Limited, 2017</div>
     </div>
   </li>
-</ul>
+</ol>
 
 <div class="site-footer">
   <p>© 2026 Elaine L. Hill | elaine_hill@urmc.rochester.edu</p>
