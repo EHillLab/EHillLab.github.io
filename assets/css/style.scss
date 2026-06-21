@@ -408,3 +408,9 @@ section p {
 html {
   scroll-behavior: smooth;
 }
+
+
+/* Override HTML <em> default italic */
+.paper-journal em {
+  font-style: normal !important;
+}
