@@ -10,7 +10,7 @@
 
 ### Working Papers
 
-<ol class="papers" style="--start: 2;">
+<ol class="papers" style="--start: 0;">
   <li>
     <div class="paper-body">
       🆕 <a href="https://www.konstantin-kunze.com/files/kunze_covid_policy.pdf">Pandemic Policies and Health Outcomes: Evidence from Medicare and Medicaid Claims Data</a>
