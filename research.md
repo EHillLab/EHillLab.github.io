@@ -561,7 +561,7 @@
 
 ### Book Chapters
 
-<ul class="papers" style="--start: 0;">
+<ul class="papers" style="--start: 76;">
   <li>
     <div class="paper-body">
       <a href="https://www.emerald.com/books/edited-volume/12881/chapter-abstract/83253544/Birth-Spacing-and-Educational-Outcomes?redirectedFrom=fulltext">Birth Spacing and Educational Outcomes</a>
