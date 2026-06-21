@@ -281,8 +281,9 @@ ul.papers li {
   align-items: start !important;
 }
 
+/*content: "»"; */
 ul.papers li::before {
-  content: "»";
+  content: "";
   font-family: monospace !important;
   font-size: 0.80rem !important;
   color: #8a8a80 !important;
