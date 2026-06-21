@@ -10,18 +10,18 @@
 
 ### Working Papers
 
-<ol class="papers" style="--start: 0;">
+<ul class="papers" style="--start: 0;">
   <li>
     <div class="paper-body">
       🆕 <a href="https://www.konstantin-kunze.com/files/kunze_covid_policy.pdf">Pandemic Policies and Health Outcomes: Evidence from Medicare and Medicaid Claims Data</a>
       <div class="paper-coauthors">with Konstantin Kunze, Meredith Adams, Daniel Guth, Grace Sventek</div>
     </div>
   </li>
-</ol> 
+</ul> 
   
 ### Published Papers
 
- <ol class="papers" style="--start: 0;"> 
+ <ul class="papers" style="--start: 0;"> 
   <li>
     <div class="paper-body">
       <a href="https://www.nber.org/papers/w30661">Who Benefits from Hazardous Waste Cleanups? Evidence from the Housing Market</a>
@@ -557,11 +557,11 @@
       <div class="paper-journal"><em>Pediatrics</em>, vol. 122, July 2008</div>
     </div>
   </li>
-</ol>
+</ul>
 
 ### Book Chapters
 
-<ol class="papers" style="--start: 0;">
+<ul class="papers" style="--start: 0;">
   <li>
     <div class="paper-body">
       <a href="https://www.emerald.com/books/edited-volume/12881/chapter-abstract/83253544/Birth-Spacing-and-Educational-Outcomes?redirectedFrom=fulltext">Birth Spacing and Educational Outcomes</a>
@@ -569,7 +569,7 @@
       <div class="paper-journal"><em>Advances in Health Economics and Health Services Research</em>, In Human Capital and Health Behavior, pp. 3-29. Emerald Publishing Limited, 2017</div>
     </div>
   </li>
-</ol>
+</ul>
 
 <div class="site-footer">
   <p>© 2026 Elaine L. Hill | elaine_hill@urmc.rochester.edu</p>
