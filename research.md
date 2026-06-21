@@ -10,18 +10,18 @@
 
 ### Working Papers
 
-<ul class="papers" style="--start: 0;">
+<ol class="papers" style="--start: 0;">
   <li>
     <div class="paper-body">
       🆕 <a href="https://www.konstantin-kunze.com/files/kunze_covid_policy.pdf">Pandemic Policies and Health Outcomes: Evidence from Medicare and Medicaid Claims Data</a>
       <div class="paper-coauthors">with Konstantin Kunze, Meredith Adams, Daniel Guth, Grace Sventek</div>
     </div>
   </li>
-</ul> 
+</0l> 
   
 ### Published Papers
 
- <ul class="papers" style="--start: 0;"> 
+ <ol class="papers" style="--start: 2;"> 
   <li>
     <div class="paper-body">
       <a href="https://www.nber.org/papers/w30661">Who Benefits from Hazardous Waste Cleanups? Evidence from the Housing Market</a>
@@ -557,7 +557,7 @@
       <div class="paper-journal"><em>Pediatrics</em>, vol. 122, July 2008</div>
     </div>
   </li>
-</ul>
+</ol>
 
 ### Book Chapters
 
