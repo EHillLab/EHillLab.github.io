@@ -427,11 +427,14 @@ html {
 
 
 .research-topics{
-  display:block !important;
+  border: 1px solid #ddd;
+  padding: 10px 14px;
+  border-radius: 6px;
+  text-align: center;
+  margin: 15px 0 25px 0;
 }
 
 .research-topics a{
-  display:block !important;
-  margin:6px 0 !important;
- border-bottom: 1px solid #ddd;
+  display: block !important;
+  margin: 6px 0 !important;
 }
