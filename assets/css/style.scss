@@ -379,50 +379,18 @@ section p {
   }
 }
 
+
 /* ===================================
-   MOBILE LAYOUT (below 768px)
+   Research page navigation
    =================================== */
-@media (max-width: 768px) {
-  header {
-    text-align: center !important;
-  }
 
-  header h1 {
-    text-align: center !important;
-    font-size: 32px !important;
-  }
-
-  header p {
-    text-align: center !important;
-  }
-
-  .profile-img {
-    float: none !important;
-    display: block;
-    margin: 0 auto 15px auto !important;
-    width: 85%;
-    max-width: 180px;
-  }
-}
-
-html {
-  scroll-behavior: smooth;
-}
-
-
-/* Override HTML <em> default italic */
-.paper-journal em {
-  font-style: normal !important;
-  font-size: 0.88rem !important;
-  font-weight: 600 !important;
-}
-  /* font-size: inherit !important; */
+/* font-size: inherit !important; */
 
 #environment,
 #mchealth,
 #opioid,
 #hsystem {
-  scroll-margin-top: 75px;
+  scroll-margin-top: 90px;
 }
 
 
@@ -432,7 +400,7 @@ html {
   line-height: 2.2;
 
   position: sticky;
-  top: 75px;
+  top: 85px;
   z-index: 998;
   background: white;
   padding: 8px 0;
@@ -469,6 +437,72 @@ html {
 }
 
 html{
-  scroll-padding-top: 75px;
+  scroll-padding-top: 90px;
 }
 
+/* ===================================
+   MOBILE LAYOUT (below 768px)
+   =================================== */
+@media (max-width: 768px) {
+  header {
+    text-align: center !important;
+  }
+
+  header h1 {
+    text-align: center !important;
+    font-size: 32px !important;
+  }
+
+  header p {
+    text-align: center !important;
+  }
+
+  .profile-img {
+    float: none !important;
+    display: block;
+    margin: 0 auto 15px auto !important;
+    width: 85%;
+    max-width: 180px;
+  }
+
+  /* Reduce sticky header complexity */
+  .research-nav{
+    position: sticky;
+    top: 0;
+    padding: 6px 0;
+  }
+
+  .research-topics{
+    position: sticky;
+    top: 42px; /* only one level below nav */
+    padding: 6px 0;
+  }
+
+  /* Make pills wrap cleanly */
+  .research-topics a{
+    font-size: 13px;
+    padding: 3px 8px;
+    margin: 4px 4px 0 0;
+  }
+
+  /* Fix scroll offset for mobile */
+  #environment,
+  #mchealth,
+  #opioid,
+  #hsystem{
+    scroll-margin-top: 110px;
+  }
+}
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+/* Override HTML <em> default italic */
+.paper-journal em {
+  font-style: normal !important;
+  font-size: 0.88rem !important;
+  font-weight: 600 !important;
+}
