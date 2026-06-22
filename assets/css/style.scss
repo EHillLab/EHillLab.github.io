@@ -459,3 +459,12 @@ html {
   border-bottom: 1px solid #eee;
   text-align: left;
 }
+
+.research-topics{
+  position: sticky;
+  top: 85px;
+  z-index: 998;
+  background: white;
+  border-bottom: 1px solid #eee;
+  padding: 8px 0;
+}
