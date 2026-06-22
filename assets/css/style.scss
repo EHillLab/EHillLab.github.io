@@ -288,7 +288,7 @@ ul.papers {
 
 ul.papers li {
   display: grid !important;
-  grid-template-columns: 1rem 1fr !important;
+  grid-template-columns: 2rem 1fr !important;
   gap: 0 0.50rem !important;
   margin-bottom: 1.5rem !important;
   align-items: start !important;
@@ -483,7 +483,7 @@ section p {
 #mchealth,
 #opioid,
 #hsystem {
-  scroll-margin-top: 120px;
+  scroll-margin-top: 140px;
 }
 
 
