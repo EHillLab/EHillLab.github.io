@@ -3,10 +3,10 @@
 </div>
 
 
----
-[🗂 Papers by Year](research.md)  |  [📚 Papers by Topic](research_by_topics.md)
-
----
+<div class="research-nav">
+  <a href="research.html">🗂 Papers by Year</a> |
+  <a href="research_by_topics.html">📚 Papers by Topic</a>
+</div>
 
 ### Working Papers
 
