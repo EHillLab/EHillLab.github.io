@@ -427,14 +427,25 @@ html {
 
 
 .research-topics{
-  border: 1px solid #ddd;
-  padding: 10px 14px;
-  border-radius: 6px;
   text-align: center;
-  margin: 15px 0 25px 0;
+  margin: 15px 0 30px 0;
+  line-height: 2.2;
 }
 
 .research-topics a{
-  display: block !important;
-  margin: 6px 0 !important;
+  display: inline-block;
+  padding: 4px 10px;
+  margin: 3px 6px;
+  border: 1px solid #ddd;
+  border-radius: 14px;
+  font-size: 14px;
+  text-decoration: none;
+  color: #333;
+  background: #fff;
+  transition: all 0.15s ease-in-out;
+}
+
+.research-topics a:hover{
+  border-color: #999;
+  background: #f7f7f7;
 }
