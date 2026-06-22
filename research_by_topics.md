@@ -6,7 +6,11 @@
 [🗂 Papers by Year](research.md)  |  [📚 Papers by Topic](research_by_topics.md)
 
 ---
-### Environment
+<div class="research-topics">
+<a href="#environment">Environment</a> | <a href="#mchealth">Maternal and Child Health</a> | <a href="#opioid">Opioid</a> | <a href="#hsystem">Healthcare</a> 
+</div>
+
+### Environment {#environment}
 
 <ul class="papers">
   <li>
@@ -219,7 +223,7 @@
   </li>
 </ul>
 
-### Maternal & Child Health
+### Maternal & Child Health {#mchealth}
 
 <ul class="papers">
   <li>
@@ -355,7 +359,7 @@
   </li>
 </ul>
 
-### Opioid Crisis & Substance Use Disorder
+### Opioid Crisis & Substance Use Disorder {#opioid}
 
 <ul class="papers">
 
@@ -433,7 +437,7 @@
   </li>
 </ul>
 
-### Health Policy and Health Care Systems
+### Health Policy and Health Care Systems {#hsystem}
 
 <ul class="papers">
   <li>
