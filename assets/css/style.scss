@@ -426,7 +426,11 @@ html {
 }
 
 
-.research-topics a {
-  display: block;
-  margin-bottom: 6px;
+.research-topics{
+  display:block !important;
+}
+
+.research-topics a{
+  display:block !important;
+  margin:6px 0 !important;
 }
