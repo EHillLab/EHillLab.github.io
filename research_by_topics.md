@@ -18,8 +18,8 @@
 </div>
 
 
-
-### Environment {#environment}
+<!-- Environment -->
+<h3 id="environment">Environment</h3>
 
 <ul class="papers">
   <li>
@@ -232,7 +232,9 @@
   </li>
 </ul>
 
-### Maternal & Child Health {#mchealth}
+
+<h3 id="mchealth">Maternal and Child Health</h3>
+
 
 <ul class="papers">
   <li>
@@ -368,7 +370,8 @@
   </li>
 </ul>
 
-### Opioid Crisis & Substance Use Disorder {#opioid}
+<h3 id="opioid">Opioid Crisis & Substance Use Disorder</h3>
+
 
 <ul class="papers">
 
@@ -446,7 +449,7 @@
   </li>
 </ul>
 
-### Health Policy and Health Care Systems {#hsystem}
+<h3 id="hsystem">Healthcare</h3>
 
 <ul class="papers">
   <li>
