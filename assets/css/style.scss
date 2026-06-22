@@ -482,28 +482,18 @@ html{
 
 @media (max-width: 768px) {
   html {
-    scroll-padding-top: 90px; /* adjust to real mobile header height */
+    scroll-padding-top: 80px; /* adjust to real mobile header height */
   }
 
   #environment,
   #mchealth,
   #opioid,
   #hsystem {
- scroll-margin-top: 90px;
+ scroll-margin-top: 80px;
   }
 }
 
-@media (max-width: 768px) {
-  #environment::before,
-  #mchealth::before,
-  #opioid::before,
-  #hsystem::before {
-    content: "";
-    display: block;
-    height: 90px;
-    margin-top: -90px;
-  }
-}
+
 /* ===================================
    End of MOBILE LAYOUT (below 768px)
    =================================== */
