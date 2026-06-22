@@ -467,7 +467,7 @@ html{
 
   /* sticky header complexity */
   .research-nav{
-    position: sticky;
+    position: sticky !important;
     top: 45px;
     padding: 6px 0;
   }
@@ -478,21 +478,8 @@ html{
     padding: 6px 0;
   }
 
-  /* Make pills wrap cleanly */
-  .research-topics a{
-    font-size: 13px;
-    padding: 3px 8px;
-    margin: 4px 4px 0 0;
-  }
-
-  /* Fix scroll offset for mobile */
-  #environment,
-  #mchealth,
-  #opioid,
-  #hsystem{
-    scroll-margin-top: 110px;
-  }
 }
+
 
 
 html {
