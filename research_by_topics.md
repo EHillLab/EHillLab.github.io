@@ -9,7 +9,7 @@
 <div class="research-topics">
 <a href="#environment">Environment</a> | <a href="#mchealth">Maternal and Child Health</a> | <a href="#opioid">Opioid</a> | <a href="#hsystem">Healthcare</a> 
 </div>
-
+---
 ### Environment {#environment}
 
 <ul class="papers">
