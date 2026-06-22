@@ -474,9 +474,12 @@ html{
 
   .research-topics{
     position: sticky;
-    top: 85px; /* only one level below nav */
+    top: 80px; /* only one level below nav */
     padding: 6px 0;
   }
+   html{
+  scroll-padding-top: 80px;
+}
 
 }
 
