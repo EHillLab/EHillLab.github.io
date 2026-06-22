@@ -426,23 +426,7 @@ html {
 }
 
 
-.research-topics a:hover{
-  border-color: #999;
-  background: #f7f7f7;
-}
-
-
-.research-nav{
-  position: sticky;
-  top: 45px; /* pushes below main nav */
-  background: white;
-  z-index: 999;
-  padding: 8px 0;
- border-bottom: 1px solid #eee;
- /*  border: none !important; */
-  text-align: left;
-}
-
+/* Topics styling */
 .research-topics{
   margin: 15px 0 30px 0;
   line-height: 2.2;
@@ -454,7 +438,37 @@ html {
   padding: 8px 0;
 }
 
+/* Topic links */
+.research-topics a{
+  display: inline-block;
+  padding: 4px 10px;
+  margin: 3px 6px 3px 0;
+  border: 1px solid #ddd;
+  border-radius: 14px;
+  font-size: 14px;
+  text-decoration: none;
+  color: #333;
+  background: #fff;
+  transition: all 0.15s ease-in-out;
+}
+
+.research-topics a:hover{
+  border-color: #999;
+  background: #f7f7f7;
+}
+
+/* Research nav (sticky) */
+.research-nav{
+  position: sticky;
+  top: 45px;
+  background: white;
+  z-index: 999;
+  padding: 8px 0;
+  border-bottom: 1px solid #eee;
+  text-align: left;
+}
+
 html{
-  scroll-padding-top: 130px;
+  scroll-padding-top: 120px;
 }
 
