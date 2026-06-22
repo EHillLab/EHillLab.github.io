@@ -426,24 +426,6 @@ html {
 }
 
 
-.research-topics{
-  margin: 15px 0 30px 0;
-  line-height: 2.2;
-}
-
-.research-topics a{
-  display: inline-block;
-  padding: 4px 10px;
-  margin: 3px 6px 3px 0;
-  border: 1px solid #ddd;
-  border-radius: 14px;
-  font-size: 14px;
-  text-decoration: none;
-  color: #333;
-  background: #fff;
-  transition: all 0.15s ease-in-out;
-}
-
 .research-topics a:hover{
   border-color: #999;
   background: #f7f7f7;
@@ -462,12 +444,17 @@ html {
 }
 
 .research-topics{
+  margin: 15px 0 30px 0;
+  line-height: 2.2;
+
   position: sticky;
   top: 85px;
   z-index: 998;
   background: white;
-  border: none !important;
   padding: 8px 0;
 }
 
+html{
+  scroll-padding-top: 130px;
+}
 
