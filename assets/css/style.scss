@@ -448,3 +448,14 @@ html {
   border-color: #999;
   background: #f7f7f7;
 }
+
+
+.research-nav{
+  position: sticky;
+  top: 45px; /* pushes below main nav */
+  background: white;
+  z-index: 999;
+  padding: 8px 0;
+  border-bottom: 1px solid #eee;
+  text-align: center;
+}
