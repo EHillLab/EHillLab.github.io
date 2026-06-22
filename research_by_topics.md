@@ -14,7 +14,7 @@
 <a href="#hsystem">Healthcare</a>
 </div>
 
-<hr style="height:0.5px; border:none; background:#ddd;">
+/* <hr style="height:0.5px; border:none; background:#ddd;"> */
 
 ### Environment {#environment}
 
