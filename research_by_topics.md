@@ -2,12 +2,16 @@
   <a href="/">Home</a> | <a href="/research.html">Research</a> | <a href="/teaching.html">Teaching</a> | <a href="Elaine_L_Hill_CV.pdf">CV</a>
 </div>
 
----
+<hr style="height:0.5px; border:none; background:#ddd;">
 [🗂 Papers by Year](research.md)  |  [📚 Papers by Topic](research_by_topics.md)
 
----
+<hr style="height:0.5px; border:none; background:#ddd;">
+
 <div class="research-topics">
-<a href="#environment">Environment</a> | <a href="#mchealth">Maternal and Child Health</a> | <a href="#opioid">Opioid</a> | <a href="#hsystem">Healthcare</a> 
+<a href="#environment">Environment</a>
+<a href="#mchealth">Maternal and Child Health</a>
+<a href="#opioid">Opioid</a>
+<a href="#hsystem">Healthcare</a>
 </div>
 
 <hr style="height:0.5px; border:none; background:#ddd;">
