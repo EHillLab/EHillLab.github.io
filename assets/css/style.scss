@@ -436,9 +436,6 @@ section p {
   text-align: left;
 }
 
-html{
-  scroll-padding-top: 80px;
-}
 
 /* ===================================
    MOBILE LAYOUT (below 768px)
@@ -481,10 +478,6 @@ html{
 
 
 @media (max-width: 768px) {
-  html {
-    scroll-padding-top: 90px;
-  }
-
   #environment,
   #mchealth,
   #opioid,
