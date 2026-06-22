@@ -469,3 +469,10 @@ html {
   border: none !important;
   padding: 8px 0;
 }
+
+
+.nav-wrap{
+  display: inline-block;   /* shrink to content width */
+  border-bottom: 1px solid #eee;
+  padding-bottom: 8px;
+}
