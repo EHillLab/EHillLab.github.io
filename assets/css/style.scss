@@ -472,7 +472,12 @@ html {
 
 
 .nav-wrap{
-  display: inline-block;   /* shrink to content width */
+  display: block;
+  width: 100%;
+}
+
+.nav-wrap > div{
+  display: inline-block;
   border-bottom: 1px solid #eee;
-  padding-bottom: 8px;
+  padding-bottom: 6px;
 }
