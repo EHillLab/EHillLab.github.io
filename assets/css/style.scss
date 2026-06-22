@@ -456,8 +456,8 @@ html {
   background: white;
   z-index: 999;
   padding: 8px 0;
-   /* border-bottom: 1px solid #eee;*/
-  border: none !important;
+ border-bottom: 1px solid #eee;
+ /*  border: none !important; */
   text-align: left;
 }
 
@@ -471,13 +471,3 @@ html {
 }
 
 
-.nav-wrap{
-  display: block;
-  width: 100%;
-}
-
-.nav-wrap > div{
-  display: inline-block;
-  border-bottom: 1px solid #eee;
-  padding-bottom: 6px;
-}
