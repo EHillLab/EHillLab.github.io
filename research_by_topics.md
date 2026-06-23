@@ -5,7 +5,7 @@
 
 
   <div class="research-nav">
-    <a href="research.html">🗂 Papers by Year</a> |
+    <a href="research.html">🗂 Papers by Year</a> 
     <a href="research_by_topics.html" class="active">📚 Papers by Topic</a>
   </div>
 
