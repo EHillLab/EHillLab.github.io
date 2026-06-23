@@ -380,54 +380,6 @@ section p {
 }
 
 
-/* font-size: inherit !important; */
-/* ===================================
-   Research page navigation
-   =================================== */
-
-
-
-/* Topics styling */
-.research-topics{
-  margin: 15px 0 30px 0;
-  line-height: 2.2;
-
-  position: sticky;
-  top: 85px;
-  z-index: 998;
-  background: white;
-  padding: 8px 0;
-}
-
-/* Topic links */
-.research-topics a{
-  display: inline-block;
-  padding: 4px 10px;
-  margin: 3px 6px 3px 0;
-  border: 1px solid #ddd;
-  border-radius: 14px;
-  font-size: 14px;
-  text-decoration: none;
-  color: #333;
-  background: #fff;
-  transition: all 0.15s ease-in-out;
-}
-
-.research-topics a:hover{
-  border-color: #999;
-  background: #f7f7f7;
-}
-
-/* Research nav (sticky) */
-.research-nav{
-  position: sticky;
-  top: 45px;
-  background: white;
-  z-index: 999;
-  padding: 8px 0;
-  border-bottom: 1px solid #eee;
-  text-align: left;
-}
 
 
 /* ===================================
@@ -506,4 +458,87 @@ html {
   font-style: normal !important;
   font-size: 0.88rem !important;
   font-weight: 600 !important;
+}
+
+
+
+/* font-size: inherit !important; */
+/* ===================================
+   Research page navigation
+   =================================== */
+
+/* Topics styling */
+.research-topics{
+  display: flex;          /* NEW — was implicit block + line-height for wrapping */
+  flex-wrap: wrap;
+  gap: 8px;
+  /* line-height: 2.2;     <-- REPLACED by flex gap above */
+  margin: 15px 0 30px 0;
+  position: sticky;
+  top: 85px;
+  z-index: 998;
+  background: white;
+  padding: 8px 0;
+}
+
+/* Topic links */
+/* --- OLD bordered pills (replaced by Option C below) ---
+.research-topics a{
+  display: inline-block;
+  padding: 4px 10px;
+  margin: 3px 6px 3px 0;
+  border: 1px solid #ddd;
+  border-radius: 14px;
+  font-size: 14px;
+  text-decoration: none;
+  color: #333;
+  background: #fff;
+  transition: all 0.15s ease-in-out;
+}
+.research-topics a:hover{
+  border-color: #999;
+  background: #f7f7f7;
+}
+--- end old --- */
+
+/* Option C — soft URBlue pills */
+.research-topics a{
+  background: #eaeef6;        /* light tint of URBlue; adjust to taste */
+  color: #01256E;
+  font-size: 14px;
+  padding: 5px 12px;
+  border-radius: 999px;
+  text-decoration: none;
+  transition: background 0.15s ease-in-out;
+}
+.research-topics a:hover{
+  background: #01256E;
+  color: #fff;
+}
+
+/* Research nav (sticky) — Option C underline tabs */
+.research-nav{
+  display: flex;             /* NEW */
+  gap: 1.5rem;               /* NEW */
+  position: sticky;
+  top: 45px;
+  background: white;
+  z-index: 999;
+  padding: 8px 0 0 0;        /* dropped bottom padding so the tab underline meets the border */
+  border-bottom: 1px solid #eee;
+  text-align: left;
+}
+/* NEW — tab link styling (you had no .research-nav a rules before) */
+.research-nav a{
+  padding: 0.4rem 0;
+  font-size: 0.95rem;
+  color: #555;
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+}
+.research-nav a:hover{ color: #01256E; }
+.research-nav a.active{
+  color: #01256E;
+  font-weight: 500;
+  border-bottom-color: #01256E;
 }
