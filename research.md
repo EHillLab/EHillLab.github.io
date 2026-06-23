@@ -1,13 +1,12 @@
 <div class="simple-nav">
   <a href="/">Home</a> | <a href="/research.html">Research</a> | <a href="/teaching.html">Teaching</a> | <a href="Elaine_L_Hill_CV.pdf">CV</a>
 </div>
+ 
 
-
-
-  <div class="research-nav">
-    <a href="research.html" class="active">🗂 Papers by Year</a> 
-    <a href="research_by_topics.html">📚 Papers by Topic</a>
-  </div>
+  <nav class="research-nav" aria-label="Paper views">
+  <a href="research.html" class="active" aria-current="page">🗂 Papers by Year</a>
+  <a href="research_by_topics.html">📚 Papers by Topic</a>
+</nav>
 
 
 ### Working Papers
