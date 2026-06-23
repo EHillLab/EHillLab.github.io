@@ -518,19 +518,21 @@ html {
 
 /* Research nav (sticky) — Option C underline tabs */
 .research-nav{
-  display: flex;             /* NEW */
-  gap: 1.5rem;               /* NEW */
+  display: flex;
+  gap: 1.5rem;
   position: sticky;
   top: 45px;
   background: white;
   z-index: 999;
-  padding: 8px 0 0 0;        /* dropped bottom padding so the tab underline meets the border */
+  padding: 0;                 /* was 8px 0 0 0 — this was the culprit */
   border-bottom: 1px solid #eee;
   text-align: left;
 }
+
+
 /* NEW — tab link styling (you had no .research-nav a rules before) */
 .research-nav a{
-  padding: 0.4rem 0;
+  padding: 0.5rem 0.2rem;     /* equal top + bottom = vertically centered text */
   font-size: 0.95rem;
   color: #555;
   text-decoration: none;
