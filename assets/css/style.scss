@@ -542,3 +542,16 @@ html {
   font-weight: 500;
   border-bottom-color: #01256E;
 }
+
+/* a centered vertical rule between adjacent nav links */
+.research-nav a:not(:last-child){
+  border-right: 1px solid #ddd;
+  padding-right: 1.5rem;
+  margin-right: 1.5rem;
+}
+
+.research-nav a[aria-current="page"]{
+  color: #01256E;
+  font-weight: 600;
+  border-bottom-color: #01256E;
+}
