@@ -16,7 +16,8 @@
   <li>
     <div class="paper-body">
       🆕 <a href="https://www.konstantin-kunze.com/files/kunze_covid_policy.pdf">Pandemic Policies and Health Outcomes: Evidence from Medicare and Medicaid Claims Data</a>
-      <div class="paper-coauthors">with Konstantin Kunze, Meredith Adams, Daniel Guth, Grace Sventek</div>
+      <div class="paper-coauthors">Konstantin Kunze, Meredith Adams, Daniel Guth, Grace Sventek, Elaine L. Hill</div>
+      <div class="paper-journal"><em>Working Paper</em>, 2025</div>
     </div>
   </li>
 
@@ -24,7 +25,7 @@
     <div class="paper-body">
       <a href="https://www.researchsquare.com/article/rs-9827057/v1">Algorithm for Improving Beneficiary Identifier Quality in Medicaid Administrative Data</a>
       <div class="paper-coauthors">Konstantin Kunze, Meredith C. B. Adams, Robert W. Hurley, Daniel Guth, Alina Denham, Sydney Pargman, Aniket Patil, Elaine L. Hill</div>
-      <div class="paper-journal">Preprint, Research Square, 2026</div>
+      <div class="paper-journal"><em>Preprint, Research Square</em>, 2026</div>
     </div>
   </li>
 
