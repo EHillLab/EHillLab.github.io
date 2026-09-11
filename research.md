@@ -31,6 +31,14 @@
     </div>
   </li>
 
+  <li>
+    <div class="paper-body">
+      <a href="https://pubmed.ncbi.nlm.nih.gov/42397951/">Substance-Specific Mortality Risk Stratification Among Adults With Substance Use Disorders During Acute Respiratory Infection: A 3.4-Million-Patient N3C Cohort Study</a>
+      <div class="paper-coauthors">with Meredith C. B. Adams, Tanzy Love, Catherine Xie, Sharad Singh, Sydney Pargman, Aniket Patil, Anik De, and Robert W. Hurley</div>
+      <div class="paper-journal"><em>Journal of Addiction Medicine</em>, 2026</div>
+    </div>
+  </li>
+
  <li>
   <div class="paper-body">
   <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347943">Criterion Validity and Divergent Risk Profiles of Long-Term     Opioid Therapy Across Medicare and Medicaid</a>
@@ -55,6 +63,15 @@
 </div>
  </li>
    
+
+
+  <li>
+    <div class="paper-body">
+      <a href="https://pubmed.ncbi.nlm.nih.gov/40354184/">HIV Infection and Long COVID: A RECOVER Program, Electronic Health Record-Based Cohort Study</a>
+      <div class="paper-coauthors">with Kellie L. Hawkins, Dima Dandachi, Zoe Verzani, M. Daniel Brannock, Colby Lewis, Sajjad Abedian, Sohrab Jaferian, Shannon Wuller, Jennifer Truong, Margot Gage Witvliet, Gretchen Dymond, Hemalkumar B. Mehta, Payal B. Patel, Mark G. Weiner, Thomas W. Carton, Rainu Kaushal, Elen Feuerriegel, Huong G. Tran, Kristen Marks, Carlos R. Oliveira, Edward M. Gardner, Igho Ofotokun, Roy M. Gulick, and Kristine M. Erlandson</div>
+      <div class="paper-journal"><em>Clinical Infectious Diseases</em>, 2025</div>
+    </div>
+  </li>
 
   <li>
     <div class="paper-body">
@@ -112,6 +129,42 @@
       <div class="paper-journal"><em>The Journal of Pediatrics</em>, vol. 282, 114578, July 2025</div>
     </div>
   </li>
+
+  <li>
+    <div class="paper-body">
+      <a href="https://academic.oup.com/ije/article/54/1/dyae178/7943630">Changes in Traffic-Related Air Pollution Exposures and Associations With Adverse Birth Outcomes Over 20 Years in Texas</a>
+      <div class="paper-coauthors">with Perry Hystad, Andrew Larkin, David Schrank, Max Harleman, E. Volkin, Erin J. Campbell, J. Molitor, Lena Harris, Beate R. Ritz, and Mary D. Willis</div>
+      <div class="paper-journal"><em>International Journal of Epidemiology</em>, 2025</div>
+    </div>
+  </li>
+
+
+  <li>
+    <div class="paper-body">
+      <a href="https://pubmed.ncbi.nlm.nih.gov/40169569/">Long COVID After SARS-CoV-2 During Pregnancy in the United States</a>
+      <div class="paper-coauthors">with Chengxi Zang, Daniel Guth, Ann M. Bruno, Zhenxing Xu, Haoyang Li, Nariman Ammar, Robert Chew, Nick Guthe, Emily Hadley, Rainu Kaushal, Tanzy Love, Brenda M. McGrath, Rena C. Patel, Elizabeth C. Seibert, Yalini Senathirajah, Sharad Kumar Singh, Fei Wang, Mark G. Weiner, Kenneth J. Wilkins, Yiye Zhang, Torri D. Metz, and Thomas W. Carton</div>
+      <div class="paper-journal"><em>Nature Communications</em>, 2025</div>
+    </div>
+  </li>
+
+
+  <li>
+    <div class="paper-body">
+      <a href="https://pubmed.ncbi.nlm.nih.gov/39823513/">Effect of Nirmatrelvir/ritonavir (Paxlovid) on Hospitalization Among Adults with COVID-19: An Electronic Health Record-Based Target Trial Emulation from N3C</a>
+      <div class="paper-coauthors">with Abhishek Bhatia, Alexander J. Preiss, Xuya Xiao, M. Daniel Brannock, G. Caleb Alexander, Robert F. Chew, Hannah Davis, Megan Fitzgerald, Elizabeth P. Kelly, Hemalkumar B. Mehta, Charisse Madlock-Brown, Kenneth J. Wilkins, Christopher G. Chute, Melissa Haendel, Richard Moffitt, and Emily R. Pfaff</div>
+      <div class="paper-journal"><em>PLOS Medicine</em>, 2025</div>
+    </div>
+  </li>
+
+
+  <li>
+    <div class="paper-body">
+      <a href="https://pubmed.ncbi.nlm.nih.gov/39292319/">Associations of County-Level Social Determinants of Health with COVID-19 Related Hospitalization Among People with HIV: A Retrospective Analysis of the U.S. National COVID Cohort Collaborative (N3C)</a>
+      <div class="paper-coauthors">with Jessica Y. Islam, Eric Hurwitz, Dongmei Li, Marlene Camacho-Rivera, Jing Sun, Sandra Safo, Jennifer M. Ross, Kenneth Wilkins, Shukri Hassan, Bohdan Nosyk, Cara Varley, Nada Fadul, Charisse Madlock-Brown, and Rena C. Patel</div>
+      <div class="paper-journal"><em>AIDS and Behavior</em>, 2024</div>
+    </div>
+  </li>
+
   <li>
     <div class="paper-body">
       <a href="https://www.sciencedirect.com/science/article/abs/pii/S0967070X2400221X">Limited Impact of Roadway Construction and Traffic Congestion on Nearby Housing Prices</a>
@@ -321,6 +374,15 @@
       <div class="paper-journal"><em>AWWA Water Science</em>, 2022</div>
     </div>
   </li>
+
+  <li>
+    <div class="paper-body">
+      <a href="https://pubmed.ncbi.nlm.nih.gov/32805036/">The National COVID Cohort Collaborative (N3C): Rationale, Design, Infrastructure, and Deployment</a>
+      <div class="paper-coauthors">with Melissa A. Haendel, Christopher G. Chute, Tellen D. Bennett, et al.</div>
+      <div class="paper-journal"><em>Journal of the American Medical Informatics Association</em>, 2021</div>
+    </div>
+  </li>
+
   <li>
     <div class="paper-body">
       <a href="https://academic.oup.com/ije/article/51/2/525/6460278">Associations Between Residential Proximity to Oil and Gas Extraction and Hypertensive Conditions During Pregnancy: A Difference-in-Differences Analysis in Texas, 1996-2009</a>
@@ -562,7 +624,7 @@
 
 ### Book Chapters
 
-<ol class="papers" style="--start: 76;">
+<ol class="papers" style="--start: 83;">
   <li>
     <div class="paper-body">
       <a href="https://www.emerald.com/books/edited-volume/12881/chapter-abstract/83253544/Birth-Spacing-and-Educational-Outcomes?redirectedFrom=fulltext">Birth Spacing and Educational Outcomes</a>
@@ -575,4 +637,3 @@
 <div class="site-footer">
   <p>© 2026 Elaine L. Hill | elaine_hill@urmc.rochester.edu</p>
 </div>
-
