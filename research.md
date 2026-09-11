@@ -9,7 +9,7 @@
 </nav>
 
 
-### Working Papers
+### Working Papers and Preprints
 
 <ol class="papers" style="--start: 0;">
   <li>
@@ -19,6 +19,20 @@
     </div>
   </li>
 </ol> 
+
+<li>
+  <div class="paper-body">
+    <a href="https://www.researchsquare.com/article/rs-9827057/v1">
+      Algorithm for Improving Beneficiary Identifier Quality in Medicaid Administrative Data
+    </a>
+    <div class="paper-coauthors">
+      Konstantin Kunze, Meredith C. B. Adams, Robert W. Hurley, Daniel Guth, Alina Denham, Sydney Pargman, Aniket Patil, Elaine L. Hill
+    </div>
+    <div class="paper-journal">
+      Preprint, Research Square, 2026
+    </div>
+  </div>
+</li>
   
 ### Published Papers
 
