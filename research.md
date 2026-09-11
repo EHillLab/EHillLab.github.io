@@ -12,31 +12,26 @@
 ### Working Papers and Preprints
 
 <ol class="papers" style="--start: 0;">
+
   <li>
     <div class="paper-body">
       🆕 <a href="https://www.konstantin-kunze.com/files/kunze_covid_policy.pdf">Pandemic Policies and Health Outcomes: Evidence from Medicare and Medicaid Claims Data</a>
       <div class="paper-coauthors">with Konstantin Kunze, Meredith Adams, Daniel Guth, Grace Sventek</div>
     </div>
   </li>
-</ol> 
 
-<li>
-  <div class="paper-body">
-    <a href="https://www.researchsquare.com/article/rs-9827057/v1">
-      Algorithm for Improving Beneficiary Identifier Quality in Medicaid Administrative Data
-    </a>
-    <div class="paper-coauthors">
-      Konstantin Kunze, Meredith C. B. Adams, Robert W. Hurley, Daniel Guth, Alina Denham, Sydney Pargman, Aniket Patil, Elaine L. Hill
+  <li>
+    <div class="paper-body">
+      <a href="https://www.researchsquare.com/article/rs-9827057/v1">Algorithm for Improving Beneficiary Identifier Quality in Medicaid Administrative Data</a>
+      <div class="paper-coauthors">Konstantin Kunze, Meredith C. B. Adams, Robert W. Hurley, Daniel Guth, Alina Denham, Sydney Pargman, Aniket Patil, Elaine L. Hill</div>
+      <div class="paper-journal">Preprint, Research Square, 2026</div>
     </div>
-    <div class="paper-journal">
-      Preprint, Research Square, 2026
-    </div>
-  </div>
-</li>
-  
+  </li>
+
+</ol>
 ### Published Papers
 
- <ol class="papers" style="--start: 1;"> 
+ <ol class="papers" style="--start: 2;"> 
   <li>
     <div class="paper-body">
       <a href="https://www.nber.org/papers/w30661">Who Benefits from Hazardous Waste Cleanups? Evidence from the Housing Market</a>
